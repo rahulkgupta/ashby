@@ -1,0 +1,18 @@
+{
+  "name": "ashby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@apollo/client": "^3.0.0-beta.19",
+    "axios": "^0.19.1",
+    "csv-parser": "^2.3.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "insert": "node insert.js"
+  },
+  "author": ""
+}

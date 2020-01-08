@@ -1,0 +1,1003 @@
+COUNT_DATE,VolumeLeg,LegDir,Street2,Location,TOTAL (Cars/Day),Lat,Lng
+2011-07-01,San Carlos St,E of,Bird Av,San Carlos St - E of  Bird Av,14100,37.324729,-121.90027
+2011-07-01,The Alameda,W of,Autumn St,The Alameda - W of  Autumn St,14600,37.332001,-121.900591
+2011-07-01,The Alameda,W of,Cahill St,The Alameda - W of  Cahill St,14600,37.331927,-121.902366
+2011-07-01,The Alameda,W of,Stockton Av,The Alameda - W of  Stockton Av,15900,37.331847,-121.904078
+2011-07-01,The Alameda,W of,Int-880,The Alameda - W of  Int-880,29000,37.342582,-121.925815
+2011-07-01,Alum Rock Av,E of,Hwy-101,Alum Rock Av - E of  Hwy-101,28500,37.350452,-121.860486
+2011-07-01,Alum Rock Av,E of,King Rd,Alum Rock Av - E of  King Rd,28500,37.353008,-121.855122
+2011-07-01,Alum Rock Av,W of,Capitol Av,Alum Rock Av - W of  Capitol Av,32500,37.362207,-121.835692
+2011-07-01,Alum Rock Av,W of,White Rd,Alum Rock Av - W of  White Rd,25500,37.365652,-121.828403
+2006-10-18,Aborn Rd,W of,White Rd,Aborn Rd - W of  White Rd,40744,37.313703,-121.793324
+2006-10-18,San Felipe Rd,S of,White Rd,San Felipe Rd - S of  White Rd,31665,37.313595,-121.791198
+2005-09-26,Pearl Av,N of,Adamo Dr,Pearl Av - N of  Adamo Dr,16244,37.263439,-121.864991
+2005-10-12,Ocala Av,W of,Adrian Wy,Ocala Av - W of  Adrian Wy,15957,37.336977,-121.825934
+2005-10-12,Ocala Av,E of,Adrian Wy,Ocala Av - E of  Adrian Wy,14833,37.337468,-121.825228
+2006-07-10,Lewis Rd,W of,Aiello Dr,Lewis Rd - W of  Aiello Dr,6240,37.292127,-121.845695
+2005-05-23,Saratoga Av,S of,Atherton Av,Saratoga Av - S of  Atherton Av,30692,37.294825,-121.98844
+2005-05-23,Saratoga Av,N of,Atherton Av,Saratoga Av - N of  Atherton Av,33546,37.295224,-121.98798
+2005-05-23,Atherton Av,E of,Saratoga Av,Atherton Av - E of  Saratoga Av,5021,37.294789,-121.987857
+2009-03-11,Monterey Rd,N of,Bailey Rd,Monterey Rd - N of  Bailey Rd,6480,37.208591,-121.731067
+2009-03-11,Monterey Rd,S of,Bailey Rd,Monterey Rd - S of  Bailey Rd,9450,37.204464,-121.726869
+2008-11-03,Miller Av,N of,Bancroft Wy,Miller Av - N of  Bancroft Wy,10330,37.304099,-122.015054
+2008-11-03,Miller Av,S of,Bancroft Wy,Miller Av - S of  Bancroft Wy,10030,37.303294,-122.015044
+2008-05-07,Penitencia Creek Rd,W of,Bard St,Penitencia Creek Rd - W of  Bard St,6930,37.391395,-121.838561
+2005-04-28,Union Av,S of,Barrett Av,Union Av - S of  Barrett Av,22730,37.255492,-121.931259
+2009-01-16,Lean Av,S of,Belden Dr,Lean Av - S of  Belden Dr,7140,37.249103,-121.817463
+2006-11-15,Branham Ln,W of,Kirk Rd,Branham Ln - W of  Kirk Rd,23256,37.253075,-121.903055
+2006-11-15,Branham Ln,E of,Kirk Rd,Branham Ln - E of  Kirk Rd,22728,37.253362,-121.90231
+2005-02-28,Bucknall Rd,E of,Quito Rd,Bucknall Rd - E of  Quito Rd,7340,37.283244,-121.99387
+2005-03-03,Bucknall Rd,W of,San Tomas Rd,Bucknall Rd - W of  San Tomas Rd,5462,37.283588,-121.977202
+2007-09-14,San Tomas Aquino Rd,N of,San Tomas Rd,San Tomas Aquino Rd - N of  San Tomas Rd,11560,37.297105,-121.976668
+2005-11-08,Johnson Av,S of,Castle Glen Av,Johnson Av - S of  Castle Glen Av,5760,37.303231,-122.005663
+2005-11-08,Johnson Av,N of,Castle Glen Av,Johnson Av - N of  Castle Glen Av,5680,37.304063,-122.005351
+2010-06-03,Coleman Av,N of,Airport Bl,Coleman Av - N of  Airport Bl,33676,37.350999,-121.921182
+2007-04-18,First St,S of,Component Dr,First St - S of  Component Dr,25617,37.382288,-121.924952
+2007-04-18,First St,N of,Component Dr,First St - N of  Component Dr,25206,37.383255,-121.925701
+2005-07-18,Palmia Dr,W of,Cottle Rd,Palmia Dr - W of  Cottle Rd,7240,37.239377,-121.804035
+2005-05-19,White Rd,N of,D Amico Dr,White Rd - N of  D Amico Dr,29311,37.316285,-121.79301
+2005-05-19,White Rd,S of,D Amico Dr,White Rd - S of  D Amico Dr,29152,37.315691,-121.792639
+2009-05-20,King Rd,S of,Dobbin Dr,King Rd - S of  Dobbin Dr,15140,37.363615,-121.866259
+2005-12-12,Meridian Av,S of,Douglas St,Meridian Av - S of  Douglas St,23214,37.321367,-121.913737
+2005-12-12,Meridian Av,N of,Douglas St,Meridian Av - N of  Douglas St,21906,37.32194,-121.913741
+2006-07-11,Lewis Rd,E of,Durant Av,Lewis Rd - E of  Durant Av,8130,37.295649,-121.840614
+2005-06-01,Williams Rd,E of,Eden Av,Williams Rd - E of  Eden Av,8932,37.30883,-121.953941
+2005-09-19,Fenian Dr,S of,Rincon Av,Fenian Dr - S of  Rincon Av,14481,37.281541,-121.976554
+2005-11-15,Fenian Dr,N of,Valerie Dr,Fenian Dr - N of  Valerie Dr,14017,37.279342,-121.976337
+2005-11-15,Fenian Dr,S of,Valerie Dr,Fenian Dr - S of  Valerie Dr,13535,37.278678,-121.976451
+2006-02-13,Taylor St,W of,First St,Taylor St - W of  First St,16778,37.348812,-121.900781
+2006-02-13,First St,N of,Taylor St,First St - N of  Taylor St,15151,37.349621,-121.900626
+2006-02-13,Taylor St,E of,First St,Taylor St - E of  First St,13333,37.349262,-121.899838
+2006-02-13,First St,S of,Taylor St,First St - S of  Taylor St,12964,37.348537,-121.899809
+2005-09-14,Havana Dr,E of,Florida Av,Havana Dr - E of  Florida Av,5090,37.330194,-121.835818
+2008-09-17,Sierra Rd,E of,Gehrig Av,Sierra Rd - E of  Gehrig Av,9930,37.396822,-121.853391
+2006-01-25,Willow St,E of,Glen Eyrie Av,Willow St - E of  Glen Eyrie Av,9090,37.3043,-121.910256
+2007-04-02,Willow St,W of,Glen Eyrie Av,Willow St - W of  Glen Eyrie Av,9760,37.3041,-121.910696
+2005-10-11,Leigh Av,S of,Gunston Wy,Leigh Av - S of  Gunston Wy,10548,37.2545,-121.921582
+2007-04-10,Palisade Dr,S of,Hellyer Av,Palisade Dr - S of  Hellyer Av,6940,37.283666,-121.814563
+2007-07-17,Hellyer Av,E of,Senter Rd,Hellyer Av - E of  Senter Rd,5900,37.284592,-121.824296
+2005-01-25,Park Av,N of,Hester Av,Park Av - N of  Hester Av,12730,37.330078,-121.919381
+2007-06-19,Palisade Dr,N of,Hiawatha Dr,Palisade Dr - N of  Hiawatha Dr,7950,37.28168,-121.815015
+2007-06-19,Palisade Dr,S of,Hiawatha Dr,Palisade Dr - S of  Hiawatha Dr,6690,37.281385,-121.814988
+2006-10-04,Piedmont Rd,S of,Hostetter Rd,Piedmont Rd - S of  Hostetter Rd,12189,37.408514,-121.851688
+2006-10-04,Piedmont Rd,N of,Hostetter Rd,Piedmont Rd - N of  Hostetter Rd,11646,37.408726,-121.851835
+2006-08-31,Story Rd,E of,Jackson Av,Story Rd - E of  Jackson Av,26800,37.347313,-121.832168
+2008-11-13,Jackson Av,N of,Mossdale Wy,Jackson Av - N of  Mossdale Wy,12450,37.376667,-121.861227
+2010-06-02,Jackson Av,N of,Story Rd,Jackson Av - N of  Story Rd,20354,37.347313,-121.832954
+2010-06-01,Julian St,E of,Twenty Fourth St,Julian St - E of  Twenty Fourth St,15438,37.351032,-121.871192
+2008-12-08,Julian St,W of,Twentyfourth St,Julian St - W of  Twentyfourth St,15180,37.350644,-121.871987
+2005-02-23,San Felipe Rd,N of,Keaton Lp,San Felipe Rd - N of  Keaton Lp,29354,37.313197,-121.790649
+2010-06-02,King Rd,N of,Aborn Rd,King Rd - N of  Aborn Rd,21719,37.310688,-121.814044
+2005-10-11,Prospect Rd,W of,Larkin Av,Prospect Rd - W of  Larkin Av,16430,37.293677,-122.018089
+2005-10-18,Saratoga Av,S of,Latimer Av,Saratoga Av - S of  Latimer Av,34073,37.29846,-121.984297
+2010-05-19,Lewis Rd,E of,Aiello Dr,Lewis Rd - E of  Aiello Dr,6574,37.29316,-121.844206
+2007-03-02,Pine Av,E of,Lupton Av,Pine Av - E of  Lupton Av,10520,37.295106,-121.901138
+2005-01-04,Quito Rd,N of,Mccoy Av,Quito Rd - N of  Mccoy Av,20285,37.276477,-121.994238
+2008-11-21,Pine Av,E of,Newport Av,Pine Av - E of  Newport Av,8010,37.296855,-121.897083
+2005-09-12,San Antonio St,E of,Oakland Av,San Antonio St - E of  Oakland Av,10744,37.352158,-121.847847
+2005-09-12,San Antonio St,W of,Oakland Av,San Antonio St - W of  Oakland Av,10639,37.351838,-121.848515
+2006-06-29,Winchester Bl,N of,Olin St,Winchester Bl - N of  Olin St,37430,37.320975,-121.950159
+2006-03-22,Trimble Rd,E of,Orchard Pw,Trimble Rd - E of  Orchard Pw,26640,37.384543,-121.930902
+2007-07-26,Palmia Dr,S of,Primrose Dr,Palmia Dr - S of  Primrose Dr,6850,37.240077,-121.806508
+2006-01-10,Piedmont Rd,N of,Pinnacle Dr,Piedmont Rd - N of  Pinnacle Dr,6910,37.40314,-121.848597
+2006-08-23,Story Rd,E of,Remillard Ct,Story Rd - E of  Remillard Ct,22920,37.328032,-121.860627
+2006-10-12,Story Rd,W of,Remillard Ct,Story Rd - W of  Remillard Ct,23540,37.32771,-121.861158
+2005-11-14,Stevens Creek Bl,W of,Richfield Dr,Stevens Creek Bl - W of  Richfield Dr,27076,37.323112,-121.984414
+2008-01-23,Ruby Av,S of,Tully Rd,Ruby Av - S of  Tully Rd,7022,37.338313,-121.784936
+2010-06-02,Santa Clara St,W of,Twenty Fourth St,Santa Clara St - W of  Twenty Fourth St,18894,37.346758,-121.868257
+2007-02-27,Taylor St,W of,Sixth St,Taylor St - W of  Sixth St,13210,37.351408,-121.895319
+2010-06-01,Santa Teresa Bl,N of,Thornwood Dr,Santa Teresa Bl - N of  Thornwood Dr,46749,37.253474,-121.858893
+2006-06-08,Aborn Rd,E of,Serpa Dr,Aborn Rd - E of  Serpa Dr,43650,37.312913,-121.79871
+2005-10-25,Saratoga Av,N of,Manzanita Dr,Saratoga Av - N of  Manzanita Dr,43551,37.311766,-121.977322
+2010-06-02,Tully Rd,E of,King Rd,Tully Rd - E of  King Rd,43398,37.323061,-121.82487
+2010-05-18,Brokaw Rd,W of,Oakland,Brokaw Rd - W of  Oakland,43256,37.382864,-121.897961
+2007-07-18,Murphy Av,W of,Deluca Dr,Murphy Av - W of  Deluca Dr,42790,37.385939,-121.888402
+2005-10-25,Saratoga Av,S of,Manzanita Dr,Saratoga Av - S of  Manzanita Dr,42381,37.311032,-121.977328
+2010-06-03,Moorpark Av,S of,Saratoga Av,Moorpark Av - S of  Saratoga Av,42263,37.314965,-121.97648
+2007-06-26,Winchester Bl,N of,Junipero Serra Fr,Winchester Bl - N of  Junipero Serra Fr,41880,37.317566,-121.950122
+2007-04-16,Murphy Av,W of,Oyama Dr,Murphy Av - W of  Oyama Dr,41799,37.383513,-121.892392
+2005-01-11,Bascom Av,N of,Southwest Ex,Bascom Av - N of  Southwest Ex,41558,37.298724,-121.931684
+2007-04-16,Murphy Av,E of,Oyama Dr,Murphy Av - E of  Oyama Dr,41322,37.383788,-121.891941
+2010-05-18,Murphy Av,W of,Lundy Av,Murphy Av - W of  Lundy Av,40853,37.386848,-121.886906
+2006-06-29,Winchester Bl,S of,Olsen Dr,Winchester Bl - S of  Olsen Dr,38460,37.318773,-121.95013
+2010-05-25,Camden Av,W of,Leigh Av,Camden Av - W of  Leigh Av,37423,37.261744,-121.923528
+2005-03-23,Winchester Bl,N of,Walgrove Wy,Winchester Bl - N of  Walgrove Wy,36410,37.306891,-121.950011
+2008-01-19,Tully Rd,E of,Tenth St,Tully Rd - E of  Tenth St,36340,37.305679,-121.850988
+2006-03-07,Bascom Av,S of,Borello Dr,Bascom Av - S of  Borello Dr,36262,37.297948,-121.93167
+2006-03-07,Bascom Av,N of,Borello Dr,Bascom Av - N of  Borello Dr,36243,37.298665,-121.931684
+2005-01-12,Meridian Av,S of,Curci Dr,Meridian Av - S of  Curci Dr,35810,37.307627,-121.913634
+2006-06-07,Coleman Av,N of,Airport Bl,Coleman Av - N of  Airport Bl,35750,37.351031,-121.921246
+2010-05-26,Camden Av,S of,Michon Dr,Camden Av - S of  Michon Dr,35534,37.247373,-121.908969
+2005-10-18,Saratoga Av,N of,Latimer Av,Saratoga Av - N of  Latimer Av,35337,37.298853,-121.983846
+2008-01-19,Tully Rd,W of,Tenth St,Tully Rd - W of  Tenth St,34940,37.305002,-121.852016
+2008-02-13,Taylor St,E of,Eighteenth St,Taylor St - E of  Eighteenth St,34860,37.357308,-121.882895
+2010-05-19,Quimby Rd,E of,Capitol Ex,Quimby Rd - E of  Capitol Ex,34630,37.324046,-121.807711
+2008-01-24,Senter Rd,N of,Balfour Dr,Senter Rd - N of  Balfour Dr,34623,37.300392,-121.840381
+2005-01-05,Winchester Bl,S of,Neal Av,Winchester Bl - S of  Neal Av,34310,37.311245,-121.95006
+2005-01-05,Winchester Bl,N of,Neal Av,Winchester Bl - N of  Neal Av,34238,37.312116,-121.950072
+2005-03-23,Winchester Bl,N of,Loma Verde Dr,Winchester Bl - N of  Loma Verde Dr,34140,37.299231,-121.949928
+2008-07-29,Stevens Creek Bl,E of,Harold Av,Stevens Creek Bl - E of  Harold Av,33570,37.323264,-121.961837
+2008-01-24,Senter Rd,S of,Balfour Dr,Senter Rd - S of  Balfour Dr,33418,37.299822,-121.83988
+2008-08-05,Stevens Creek Bl,W of,Rosewood Av,Stevens Creek Bl - W of  Rosewood Av,33000,37.323296,-121.954708
+2010-05-19,Mckee Rd,W of,King Rd,Mckee Rd - W of  King Rd,32338,37.357706,-121.861276
+2006-03-22,Trimble Rd,E of,Seaboard Av,Trimble Rd - E of  Seaboard Av,32330,37.379864,-121.938867
+2005-04-13,Stevens Creek Bl,W of,Cypress Av,Stevens Creek Bl - W of  Cypress Av,32111,37.323272,-121.960237
+2005-04-13,Stevens Creek Bl,E of,Cypress Av,Stevens Creek Bl - E of  Cypress Av,31981,37.323275,-121.959388
+2005-04-05,Blossom Hill Rd,E of,Beswick Dr,Blossom Hill Rd - E of  Beswick Dr,31654,37.251394,-121.808679
+2010-06-03,Coleman Av,N of,Hedding St,Coleman Av - N of  Hedding St,31504,37.346747,-121.915563
+2005-05-18,Quimby Rd,W of,Gavilan Dr,Quimby Rd - W of  Gavilan Dr,31268,37.325253,-121.802377
+2009-05-20,Taylor St,W of,Spring St,Taylor St - W of  Spring St,31170,37.34377,-121.908879
+2005-03-15,Story Rd,E of,Lucretia Av,Story Rd - E of  Lucretia Av,30827,37.330712,-121.85665
+2005-05-24,Camden Av,N of,Orchard View Dr,Camden Av - N of  Orchard View Dr,30660,37.234862,-121.903469
+2005-05-18,Quimby Rd,E of,Gavilan Dr,Quimby Rd - E of  Gavilan Dr,30264,37.325378,-121.801798
+2005-04-05,Blossom Hill Rd,W of,Beswick Dr,Blossom Hill Rd - W of  Beswick Dr,30246,37.251252,-121.809716
+2005-04-18,Camden Av,S of,Malpas Dr,Camden Av - S of  Malpas Dr,30066,37.231876,-121.903562
+2005-04-18,Camden Av,N of,Malpas Dr,Camden Av - N of  Malpas Dr,29920,37.232485,-121.903457
+2006-10-18,White Rd,N of,Aborn Rd,White Rd - N of  Aborn Rd,29842,37.31454,-121.791939
+2010-06-03,Saratoga Av,N of,Campbell Av,Saratoga Av - N of  Campbell Av,29017,37.292472,-121.991166
+2006-08-24,Story Rd,E of,Lyndale Av,Story Rd - E of  Lyndale Av,28920,37.354502,-121.821568
+2007-08-02,White Rd,S of,Peppermint Dr,White Rd - S of  Peppermint Dr,28720,37.330196,-121.798808
+2005-02-23,San Felipe Rd,S of,Keaton Lp,San Felipe Rd - S of  Keaton Lp,28540,37.311823,-121.787969
+2005-05-31,Camden Av,S of,Canna Ln,Camden Av - S of  Canna Ln,28117,37.231173,-121.903759
+2005-05-31,Camden Av,N of,Canna Ln,Camden Av - N of  Canna Ln,28112,37.231387,-121.903674
+2005-02-09,Hillsdale Av,E of,Ross Av,Hillsdale Av - E of  Ross Av,27728,37.264158,-121.915807
+2005-11-14,Stevens Creek Bl,E of,Richfield Dr,Stevens Creek Bl - E of  Richfield Dr,27588,37.323117,-121.983335
+2010-05-20,Moorpark Av,W of,Thornton Wy,Moorpark Av - W of  Thornton Wy,27488,37.316091,-121.939116
+2005-02-17,Santa Clara St,E of,Twentyeighth St,Santa Clara St - E of  Twentyeighth St,27400,37.348842,-121.863868
+2010-05-20,Taylor St,E of,Coleman Av,Taylor St - E of  Coleman Av,27267,37.34263,-121.910486
+2010-06-03,Coleman Av,S of,Taylor Av,Coleman Av - S of  Taylor Av,27040,37.341674,-121.910111
+2009-02-05,First St,N of,Rosemary St,First St - N of  Rosemary St,26920,37.360369,-121.90862
+2010-06-01,Camden Av,S of,Blossom Hill,Camden Av - S of  Blossom Hill,26833,37.236101,-121.9035
+2009-05-27,Taylor St,W of,Chestnut St,Taylor St - W of  Chestnut St,26500,37.341499,-121.912217
+2006-06-21,Hillsdale Av,E of,Manda Dr,Hillsdale Av - E of  Manda Dr,26210,37.265463,-121.912679
+2006-06-15,Hillsdale Av,W of,Wilcox Av,Hillsdale Av - W of  Wilcox Av,26200,37.269564,-121.898705
+2006-06-19,Hillsdale Av,W of,Picadilly Dr,Hillsdale Av - W of  Picadilly Dr,25960,37.273926,-121.883884
+2005-03-15,Story Rd,W of,Lucretia Av,Story Rd - W of  Lucretia Av,25918,37.329612,-121.85827
+2005-03-22,Jackson Av,S of,Madden Av,Jackson Av - S of  Madden Av,25490,37.361054,-121.846037
+2010-06-03,Trimble Rd,W of,First St,Trimble Rd - W of  First St,25484,37.385436,-121.928959
+2006-06-19,Hillsdale Av,W of,Quinto Wy,Hillsdale Av - W of  Quinto Wy,25420,37.265211,-121.913617
+2010-05-19,Snell Rd,S of,Chynoweth,Snell Rd - S of  Chynoweth,25383,37.258182,-121.830858
+2005-03-22,Jackson Av,N of,Madden Av,Jackson Av - N of  Madden Av,25368,37.361378,-121.846356
+2010-05-20,Hamilton Av,W of,Meridian Av,Hamilton Av - W of  Meridian Av,25336,37.294426,-121.914227
+2007-08-01,White Rd,S of,Westgrove Ln,White Rd - S of  Westgrove Ln,25238,37.317429,-121.793684
+2005-04-25,Meridian Av,N of,Dentwood Dr,Meridian Av - N of  Dentwood Dr,25135,37.249302,-121.89478
+2008-10-01,Tasman Dr,E of,Zanker Rd,Tasman Dr - E of  Zanker Rd,24990,37.412912,-121.93538
+2007-03-06,Yerba Buena Rd,E of,Edenwood Dr,Yerba Buena Rd - E of  Edenwood Dr,24890,37.297861,-121.796083
+2005-02-01,King Rd,N of,Flanigan Dr,King Rd - N of  Flanigan Dr,24560,37.319421,-121.823087
+2005-01-31,King Rd,N of,Biscayne Wy,King Rd - N of  Biscayne Wy,24530,37.334226,-121.837586
+2005-03-14,San Carlos St,W of,Meridian Av,San Carlos St - W of  Meridian Av,24366,37.323492,-121.914161
+2010-06-02,King Rd,S of,Story Rd,King Rd - S of  Story Rd,24347,37.33933,-121.842545
+2005-02-17,Santa Clara St,W of,Twentyeighth St,Santa Clara St - W of  Twentyeighth St,24341,37.348553,-121.864475
+2010-06-03,Hillsdale Av,W of,Vistamont Dr,Hillsdale Av - W of  Vistamont Dr,24296,37.2733,-121.88628
+2007-04-12,Blossom Hill Rd,W of,Winfield Bl,Blossom Hill Rd - W of  Winfield Bl,24280,37.250413,-121.867656
+2010-06-03,Silver Creek Rd,S of,Capitol Expy,Silver Creek Rd - S of  Capitol Expy,24216,37.306412,-121.810256
+2006-08-31,Jackson Av,N of,Cinderella Ln,Jackson Av - N of  Cinderella Ln,24130,37.349158,-121.83468
+2010-05-25,Union Av,N of,Sr-85,Union Av - N of  Sr-85,24094,37.25295,-121.931266
+2005-03-14,San Carlos St,E of,Meridian Av,San Carlos St - E of  Meridian Av,23976,37.32349,-121.913398
+2010-06-01,Blossom Hill Rd,E of,Santa Teresa Bl,Blossom Hill Rd - E of  Santa Teresa Bl,23964,37.250336,-121.857348
+2006-03-22,Trimble Rd,W of,Junction Av,Trimble Rd - W of  Junction Av,23770,37.390743,-121.921408
+2010-05-19,Ocala Av,E of,Capitol Expy,Ocala Av - E of  Capitol Expy,23743,37.34089,-121.819778
+2006-10-18,Aborn Rd,E of,White Rd,Aborn Rd - E of  White Rd,23737,37.314129,-121.790492
+2005-10-04,Alum Rock Av,W of,Manning Av,Alum Rock Av - W of  Manning Av,23720,37.366602,-121.826923
+2009-02-19,Oakland Rd,N of,Commercial St,Oakland Rd - N of  Commercial St,23680,37.365212,-121.891788
+2006-06-19,Hillsdale Av,W of,Ross Av,Hillsdale Av - W of  Ross Av,23640,37.263183,-121.917715
+2009-04-28,Santa Teresa Bl,E of,Camino Verde Dr,Santa Teresa Bl - E of  Camino Verde Dr,23570,37.237003,-121.800717
+2005-12-13,Meridian Av,N of,Auzerais Av,Meridian Av - N of  Auzerais Av,23387,37.321048,-121.913735
+2005-12-13,Meridian Av,S of,Auzerais Av,Meridian Av - S of  Auzerais Av,23351,37.320519,-121.913733
+2005-01-31,King Rd,N of,Monrovia Dr,King Rd - N of  Monrovia Dr,23190,37.312823,-121.816553
+2007-07-25,White Rd,N of,Tully Rd,White Rd - N of  Tully Rd,23190,37.336286,-121.80119
+2010-06-02,Aborn Rd,E of,San Felipe Rd,Aborn Rd - E of  San Felipe Rd,23179,37.314094,-121.790731
+2007-04-03,San Carlos St,W of,Leigh Av,San Carlos St - W of  Leigh Av,22730,37.323427,-121.924246
+2007-04-03,San Carlos St,E of,Leigh Av,San Carlos St - E of  Leigh Av,22694,37.323435,-121.92348
+2008-09-16,King Rd,E of,Schulte Dr,King Rd - E of  Schulte Dr,22600,37.360229,-121.862934
+2010-06-01,Hillsdale Av,W of,Meridian Av,Hillsdale Av - W of  Meridian Av,22525,37.26774,-121.905409
+2009-04-02,Ocala Av,W of,Wonderama Dr,Ocala Av - W of  Wonderama Dr,22520,37.341663,-121.817631
+2005-10-04,Alum Rock Av,E of,Manning Av,Alum Rock Av - E of  Manning Av,22468,37.367385,-121.826437
+2005-05-03,Union Av,N of,Carlton Av,Union Av - N of  Carlton Av,22453,37.248498,-121.931283
+2009-04-14,Cottle Rd,S of,Rochester Rd,Cottle Rd - S of  Rochester Rd,22290,37.249211,-121.803989
+2005-01-12,Meridian Av,S of,Harmon Av,Meridian Av - S of  Harmon Av,22180,37.318639,-121.91374
+2010-06-01,Santa Teresa Bl,S of,Blossom Hill,Santa Teresa Bl - S of  Blossom Hill,22066,37.249359,-121.858877
+2009-05-20,Capitol Av,N of,Autumnvale Dr,Capitol Av - N of  Autumnvale Dr,21870,37.405008,-121.884827
+2008-04-29,Mclaughlin Av,N of,Bacchus Dr,Mclaughlin Av - N of  Bacchus Dr,21821,37.325059,-121.846167
+2006-06-12,Branham Ln,E of,Snell Av,Branham Ln - E of  Snell Av,21810,37.265987,-121.830666
+2006-03-29,Trade Zone Bl,E of,Lundy Av,Trade Zone Bl - E of  Lundy Av,21760,37.403277,-121.890125
+2010-05-19,Bird Av,N of,Virginia St,Bird Av - N of  Virginia St,21716,37.320525,-121.897577
+2010-06-03,Branham Ln,E of,Almaden Expy,Branham Ln - E of  Almaden Expy,21645,37.263248,-121.875687
+2010-06-02,Yerba Buena Rd,W of,Silver Creek Valley Rd,Yerba Buena Rd - W of  Silver Creek Valley Rd,21568,37.294874,-121.787291
+2009-04-14,Bernal Rd,W of,San Ignacio Av,Bernal Rd - W of  San Ignacio Av,21480,37.232244,-121.772302
+2005-07-21,Almaden Ex,S of,Alma Av,Almaden Ex - S of  Alma Av,21470,37.312812,-121.878511
+2005-04-25,Meridian Av,S of,Dentwood Dr,Meridian Av - S of  Dentwood Dr,21461,37.248941,-121.894524
+2005-05-03,Union Av,S of,Carlton Av,Union Av - S of  Carlton Av,21438,37.248117,-121.931278
+2006-02-28,Santa Teresa Bl,W of,Camino Verde Dr,Santa Teresa Bl - W of  Camino Verde Dr,21303,37.237007,-121.801685
+2010-06-02,Mclaughlin Av,S of,Tully Rd,Mclaughlin Av - S of  Tully Rd,21277,37.314641,-121.835999
+2006-01-24,Santa Clara St,E of,Market St,Santa Clara St - E of  Market St,21060,37.335595,-121.891777
+2006-02-07,Seventh St,S of,Margaret Wy,Seventh St - S of  Margaret Wy,21005,37.328231,-121.876024
+2008-04-29,Mclaughlin Av,S of,Bacchus Dr,Mclaughlin Av - S of  Bacchus Dr,20977,37.324335,-121.845461
+2009-02-10,First St,N of,Archer St,First St - N of  Archer St,20970,37.365131,-121.912161
+2005-02-28,Quito Rd,N of,Bucknall Rd,Quito Rd - N of  Bucknall Rd,20713,37.283979,-121.994422
+2005-02-03,Tenth St,N of,Martha St,Tenth St - N of  Martha St,20691,37.327381,-121.871124
+2009-03-10,Market St,N of,Devine St,Market St - N of  Devine St,20680,37.339278,-121.894896
+2005-01-31,King Rd,S of,Waverly Av,King Rd - S of  Waverly Av,20670,37.325611,-121.829096
+2008-09-29,Capitol Av,S of,Penitencia Creek Rd,Capitol Av - S of  Penitencia Creek Rd,20610,37.382617,-121.85619
+2006-03-29,Trade Zone Bl,W of,Lundy Av,Trade Zone Bl - W of  Lundy Av,20610,37.40336,-121.891159
+2010-05-26,Camden Av,S of,Lencar Wy,Camden Av - S of  Lencar Wy,20529,37.255864,-121.914989
+2010-05-20,Stevens Creek Bl,W of,Bascom Av,Stevens Creek Bl - W of  Bascom Av,20418,37.323388,-121.932587
+2006-01-24,Santa Clara St,E of,Tenth St,Santa Clara St - E of  Tenth St,20200,37.340866,-121.880673
+2006-02-06,Seventh St,N of,Virginia St,Seventh St - N of  Virginia St,20173,37.327301,-121.875336
+2006-08-24,Story Rd,E of,Mccreery Av,Story Rd - E of  Mccreery Av,20070,37.342004,-121.840001
+2009-02-19,Taylor St,W of,Miller St,Taylor St - W of  Miller St,19980,37.348337,-121.901786
+2005-02-28,Quito Rd,S of,Bucknall Rd,Quito Rd - S of  Bucknall Rd,19896,37.282926,-121.994379
+2005-07-28,Santa Clara St,W of,Fourth St,Santa Clara St - W of  Fourth St,19840,37.337539,-121.887682
+2006-03-20,Lincoln Av,S of,Coe Av,Lincoln Av - S of  Coe Av,19809,37.312239,-121.903794
+2009-03-11,Union Av,N of,Lantz Av,Union Av - N of  Lantz Av,19710,37.272183,-121.93276
+2006-01-31,Seventh St,S of,Margaret St,Seventh St - S of  Margaret St,19491,37.328475,-121.876203
+2006-08-02,Yerba Buena Rd,W of,Yerba Buena Av,Yerba Buena Rd - W of  Yerba Buena Av,19010,37.297178,-121.777165
+2008-07-28,Bollinger Rd,W of,Whiteoak Dr,Bollinger Rd - W of  Whiteoak Dr,18780,37.309995,-122.000014
+2005-02-15,Old Bayshore Hy,W of,Tenth St,Old Bayshore Hy - W of  Tenth St,18734,37.367173,-121.900797
+2006-01-31,Seventh St,N of,Margaret St,Seventh St - N of  Margaret St,18679,37.32877,-121.876423
+2009-03-11,Union Av,N of,Camden Av,Union Av - N of  Camden Av,18510,37.262279,-121.931424
+2006-03-20,Lincoln Av,N of,Coe Av,Lincoln Av - N of  Coe Av,18492,37.31259,-121.904104
+2008-09-29,Capitol Av,N of,Baton Rouge Dr,Capitol Av - N of  Baton Rouge Dr,18460,37.376841,-121.849791
+2010-05-18,Berryessa Rd,E of,Capitol,Berryessa Rd - E of  Capitol,18320,37.386943,-121.860048
+2010-05-20,Meridian Av,S of,Hillsdale Av,Meridian Av - S of  Hillsdale Av,18312,37.26753,-121.904488
+2005-05-23,Camden Av,E of,Camelia Dr,Camden Av - E of  Camelia Dr,18220,37.222094,-121.872381
+2008-07-28,Bollinger Rd,W of,Hyde Av,Bollinger Rd - W of  Hyde Av,18150,37.31053,-122.011112
+2006-02-06,Seventh St,S of,Virginia St,Seventh St - S of  Virginia St,18062,37.326853,-121.875023
+2005-11-02,Mclaughlin Av,S of,Appian Ln,Mclaughlin Av - S of  Appian Ln,18045,37.338545,-121.859423
+2006-06-07,Aborn Rd,E of,Montelena Dr,Aborn Rd - E of  Montelena Dr,17970,37.315545,-121.781003
+2005-03-21,Hamilton Av,E of,Latimer Av,Hamilton Av - E of  Latimer Av,17961,37.29376,-121.978835
+2005-05-10,Alum Rock Av,W of,Foss Av,Alum Rock Av - W of  Foss Av,17910,37.358965,-121.842544
+2005-01-04,Quito Rd,S of,Mccoy Av,Quito Rd - S of  Mccoy Av,17892,37.275584,-121.994201
+2006-02-08,Eleventh St,S of,Martha St,Eleventh St - S of  Martha St,17870,37.3274,-121.869707
+2009-04-02,Ocala Av,E of,Ridgemont Dr,Ocala Av - E of  Ridgemont Dr,17870,37.343487,-121.81195
+2010-05-25,Union Av,N of,Camden Av,Union Av - N of  Camden Av,17781,37.262034,-121.931422
+2010-06-02,Story Rd,E of,White Rd,Story Rd - E of  White Rd,17618,37.356999,-121.817885
+2005-11-08,Kiely Bl,S of,Albany Dr,Kiely Bl - S of  Albany Dr,17601,37.320733,-121.975338
+2008-04-25,Eleventh St,S of,Bestor St,Eleventh St - S of  Bestor St,17580,37.326064,-121.86872
+2005-03-14,Meridian Av,S of,San Carlos St,Meridian Av - S of  San Carlos St,17561,37.323095,-121.913749
+2005-03-21,Hamilton Av,W of,Latimer Av,Hamilton Av - W of  Latimer Av,17547,37.293743,-121.979885
+2010-06-02,Tully Rd,E of,White Rd,Tully Rd - E of  White Rd,17535,37.335682,-121.799912
+2005-03-07,Senter Rd,N of,Ezie St,Senter Rd - N of  Ezie St,17422,37.286976,-121.827144
+2007-06-25,Quito Rd,N of,Yorkton Wy,Quito Rd - N of  Yorkton Wy,17330,37.273514,-121.994045
+2005-10-24,Ocala Av,W of,Ridgemont Dr,Ocala Av - W of  Ridgemont Dr,17209,37.343234,-121.812735
+2005-11-02,Mclaughlin Av,N of,Appian Ln,Mclaughlin Av - N of  Appian Ln,17180,37.338929,-121.859826
+2010-05-20,Leigh Av,N of,Hamilton,Leigh Av - N of  Hamilton,17117,37.295203,-121.922678
+2010-06-02,Quimby Rd,E of,White Rd,Quimby Rd - E of  White Rd,17036,37.324759,-121.795826
+2008-05-28,Prospect Rd,E of,Clarkspur Ln,Prospect Rd - E of  Clarkspur Ln,17000,37.293758,-122.020015
+2009-03-10,Almaden Bl,N of,Park Av,Almaden Bl - N of  Park Av,16970,37.331231,-121.892825
+2006-08-28,Jackson Av,S of,Mather Dr,Jackson Av - S of  Mather Dr,16960,37.362638,-121.847577
+2009-04-28,Santa Teresa Bl,N of,San Ignacio Av,Santa Teresa Bl - N of  San Ignacio Av,16950,37.233289,-121.787598
+2010-05-26,Camden Av,E of,Crystal Springs Dr,Camden Av - E of  Crystal Springs Dr,16834,37.222068,-121.873329
+2006-01-31,Almaden Rd,S of,Malone Rd,Almaden Rd - S of  Malone Rd,16820,37.297292,-121.880326
+2006-01-24,Santa Clara St,W of,Seventeenth St,Santa Clara St - W of  Seventeenth St,16750,37.343668,-121.874765
+2005-01-18,Story Rd,W of,Lancelot Ln,Story Rd - W of  Lancelot Ln,16721,37.358594,-121.815531
+2005-08-29,Bollinger Rd,E of,Alderbrook Ln,Bollinger Rd - E of  Alderbrook Ln,16690,37.310123,-122.017392
+2005-11-01,Morrill Av,N of,Knights Bridge Rd,Morrill Av - N of  Knights Bridge Rd,16656,37.404493,-121.866886
+2008-06-05,Prospect Rd,E of,Brookvale Dr,Prospect Rd - E of  Brookvale Dr,16630,37.29397,-122.02856
+2007-08-08,Taylor St,E of,Second St,Taylor St - E of  Second St,16630,37.349816,-121.898672
+2005-05-24,Coleman Rd,E of,Camden Av,Coleman Rd - E of  Camden Av,16590,37.226136,-121.903076
+2006-06-12,Santa Clara St,E of,Twelvth St,Santa Clara St - E of  Twelvth St,16540,37.341773,-121.878763
+2005-09-07,Seventh St,N of,Martha St,Seventh St - N of  Martha St,16519,37.325787,-121.874206
+2006-02-07,Seventh St,N of,Margaret Wy,Seventh St - N of  Margaret Wy,16482,37.32842,-121.876164
+2008-05-21,Prospect Rd,E of,Provincetown Dr,Prospect Rd - E of  Provincetown Dr,16460,37.293418,-122.010307
+2006-06-12,Branham Ln,W of,Monterey Rd,Branham Ln - W of  Monterey Rd,16400,37.26653,-121.823283
+2008-12-08,Julian St,E of,Twentyfifth St,Julian St - E of  Twentyfifth St,16390,37.35153,-121.870454
+2006-07-10,Tully Rd,W of,Vista Verde Dr,Tully Rd - W of  Vista Verde Dr,16320,37.336638,-121.795053
+2007-08-08,Taylor St,W of,Twelfth St,Taylor St - W of  Twelfth St,16250,37.354421,-121.888973
+2006-02-08,Tenth St,S of,Martha St,Tenth St - S of  Martha St,16210,37.326943,-121.870797
+2009-02-26,Market St,N of,Santa Clara St,Market St - N of  Santa Clara St,16190,37.336052,-121.8925
+2006-04-03,Lincoln Av,S of,Pine Av,Lincoln Av - S of  Pine Av,15981,37.298021,-121.893147
+2010-05-18,Lundy Av,S of,Murphy Av,Lundy Av - S of  Murphy Av,15942,37.386942,-121.885698
+2005-09-26,Pearl Av,S of,Adamo Dr,Pearl Av - S of  Adamo Dr,15927,37.262715,-121.864661
+2009-02-19,Mckay Dr,N of,Oakland Rd,Mckay Dr - N of  Oakland Rd,15900,37.386132,-121.898157
+2005-07-20,Almaden Ex,S of,Orto St,Almaden Ex - S of  Orto St,15890,37.305458,-121.875893
+2008-09-29,Cropley Av,W of,Camargo Dr,Cropley Av - W of  Camargo Dr,15890,37.406985,-121.874643
+2010-06-02,White Rd,N of,Mckee Rd,White Rd - N of  Mckee Rd,15847,37.375713,-121.836076
+2007-06-25,Quito Rd,S of,Yorkton Wy,Quito Rd - S of  Yorkton Wy,15810,37.272826,-121.993892
+2010-05-19,Branham Ln,W of,Vistapark Dr,Branham Ln - W of  Vistapark Dr,15808,37.265755,-121.848775
+2006-03-28,Bird Av,N of,Coe Av,Bird Av - N of  Coe Av,15706,37.315651,-121.897857
+2007-04-24,Bollinger Rd,E of,Blaney Av,Bollinger Rd - E of  Blaney Av,15674,37.309734,-122.022751
+2010-06-01,Pearl Av,S of,Capitol Expy,Pearl Av - S of  Capitol Expy,15622,37.27474,-121.870156
+2007-03-12,Zanker Rd,S of,Component Dr,Zanker Rd - S of  Component Dr,15620,37.385522,-121.921243
+2005-09-19,Fenian Dr,N of,Rincon Av,Fenian Dr - N of  Rincon Av,15563,37.282152,-121.976613
+2007-08-09,Old Bayshore Hy,E of,First St,Old Bayshore Hy - E of  First St,15560,37.371238,-121.91734
+2007-07-18,Pearl Av,N of,Lewiston Dr,Pearl Av - N of  Lewiston Dr,15340,37.273078,-121.869394
+2005-11-01,Morrill Av,S of,Knights Bridge Rd,Morrill Av - S of  Knights Bridge Rd,15319,37.404179,-121.866657
+2006-04-03,Lincoln Av,N of,Pine Av,Lincoln Av - N of  Pine Av,15301,37.298691,-121.893382
+2006-02-08,Seventh St,S of,Martha St,Seventh St - S of  Martha St,15230,37.325323,-121.87386
+2005-05-23,Camden Av,W of,Springpath Ln,Camden Av - W of  Springpath Ln,15200,37.221137,-121.883276
+2005-09-01,Bollinger Rd,E of,Windsor St,Bollinger Rd - E of  Windsor St,15160,37.311072,-122.027351
+2010-05-19,Alma Av,W of,Vine St,Alma Av - W of  Vine St,15112,37.312568,-121.879436
+2010-05-20,King Rd,S of,Mabury Rd,King Rd - S of  Mabury Rd,15071,37.365773,-121.868413
+2005-06-13,Meridian Av,N of,Oakglen Wy,Meridian Av - N of  Oakglen Wy,15048,37.232439,-121.884108
+2009-05-12,Great Oaks Bl,E of,San Ignacio Av,Great Oaks Bl - E of  San Ignacio Av,15030,37.236077,-121.77693
+2005-03-03,Bucknall Rd,N of,San Tomas Rd,Bucknall Rd - N of  San Tomas Rd,14997,37.284355,-121.976628
+2008-09-17,King Rd,S of,San Antonio St,King Rd - S of  San Antonio St,14970,37.349456,-121.852273
+2008-12-04,Hamilton Av,W of,Hamilton Wy,Hamilton Av - W of  Hamilton Wy,14890,37.294421,-121.910116
+2005-01-18,Story Rd,E of,Lancelot Ln,Story Rd - E of  Lancelot Ln,14841,37.358824,-121.815191
+2007-11-15,Blossom Av,N of,Canton Dr,Blossom Av - N of  Canton Dr,14840,37.24831,-121.839781
+2010-05-19,Yerba Buena Rd,E of,Mclaughlin Av,Yerba Buena Rd - E of  Mclaughlin Av,14836,37.291441,-121.814973
+2006-01-31,Seven Trees Bl,N of,El Cajon Dr,Seven Trees Bl - N of  El Cajon Dr,14830,37.283898,-121.833588
+2007-01-23,Race St,N of,Park Av,Race St - N of  Park Av,14818,37.326381,-121.911605
+2009-02-10,First St,N of,Metro Dr,First St - N of  Metro Dr,14770,37.369876,-121.915736
+2005-02-08,Keyes St,E of,Third St,Keyes St - E of  Third St,14725,37.320997,-121.875684
+2010-06-02,Silver Creek Valley Rd,S of,Yerba Buena Rd,Silver Creek Valley Rd - S of  Yerba Buena Rd,14680,37.295734,-121.784683
+2007-03-12,Zanker Rd,N of,Component Dr,Zanker Rd - N of  Component Dr,14673,37.38621,-121.92198
+2005-06-13,Meridian Av,S of,Oakglen Wy,Meridian Av - S of  Oakglen Wy,14672,37.231924,-121.884107
+2009-03-10,Market St,N of,Post St,Market St - N of  Post St,14570,37.334854,-121.891599
+2010-05-19,Lincoln Av,N of,Pedro St,Lincoln Av - N of  Pedro St,14562,37.313725,-121.905072
+2009-05-20,Taylor St,W of,Laurel St,Taylor St - W of  Laurel St,14530,37.339554,-121.914857
+2008-09-29,Capitol Av,S of,Old Post Wy,Capitol Av - S of  Old Post Wy,14430,37.39233,-121.866426
+2005-03-07,Senter Rd,S of,Ezie St,Senter Rd - S of  Ezie St,14420,37.286633,-121.826853
+2005-04-21,Lundy Av,S of,Commerce Dr,Lundy Av - S of  Commerce Dr,14370,37.393132,-121.890588
+2005-02-14,Park Av,S of,Naglee Av,Park Av - S of  Naglee Av,14295,37.333396,-121.923382
+2006-03-29,Mabury Rd,E of,Lenfest Rd,Mabury Rd - E of  Lenfest Rd,14250,37.365569,-121.871284
+2008-12-04,Hamilton Av,E of,Hamilton Wy,Hamilton Av - E of  Hamilton Wy,14230,37.294207,-121.909309
+2006-11-15,Latimer Av,N of,San Tomas Rd,Latimer Av - N of  San Tomas Rd,14100,37.29124,-121.976602
+2006-11-07,Senter Rd,W of,Seven Trees Bl,Senter Rd - W of  Seven Trees Bl,14068,37.278103,-121.832894
+2007-06-28,San Tomas Aquino Rd,E of,Saratoga Av,San Tomas Aquino Rd - E of  Saratoga Av,13930,37.302724,-121.978712
+2005-07-20,Sixth St,S of,Martha St,Sixth St - S of  Martha St,13930,37.324977,-121.875025
+2010-06-01,Snell Av,N of,Santa Teresa Bl,Snell Av - N of  Santa Teresa Bl,13880,37.237724,-121.83062
+2007-04-24,Bollinger Rd,W of,Blaney Av,Bollinger Rd - W of  Blaney Av,13864,37.310019,-122.023702
+2006-07-13,Hillsdale Av,W of,Pearl Av,Hillsdale Av - W of  Pearl Av,13860,37.275324,-121.870975
+2010-05-18,Cropley Av,W of,Morrill Av,Cropley Av - W of  Morrill Av,13852,37.408823,-121.870882
+2006-02-07,Margaret Wy,E of,Seventh St,Margaret Wy - E of  Seventh St,13736,37.328395,-121.875534
+2009-03-19,Seventh St,S of,Reed St,Seventh St - S of  Reed St,13710,37.329863,-121.877241
+2008-11-06,Morrill Av,N of,Via Montez,Morrill Av - N of  Via Montez,13690,37.410964,-121.871671
+2008-05-28,Kiely Bl,N of,Albany Dr,Kiely Bl - N of  Albany Dr,13630,37.321518,-121.975554
+2010-05-26,Meridian Av,S of,Blossom Hill,Meridian Av - S of  Blossom Hill,13618,37.242932,-121.888942
+2006-10-12,Santa Clara St,E of,Sixth St,Santa Clara St - E of  Sixth St,13590,37.338834,-121.884953
+2005-03-16,Coleman Rd,W of,Porto Alegre Dr,Coleman Rd - W of  Porto Alegre Dr,13580,37.241117,-121.880363
+2008-05-06,Blossom Hill Rd,E of,Snell Av,Blossom Hill Rd - E of  Snell Av,13510,37.251302,-121.830149
+2005-08-22,Tasman Dr,E of,Vista Montana,Tasman Dr - E of  Vista Montana,13490,37.410817,-121.954991
+2010-06-01,Lincoln Av,S of,Curtner Av,Lincoln Av - S of  Curtner Av,13438,37.289665,-121.887561
+2005-03-03,Bucknall Rd,S of,San Tomas Rd,Bucknall Rd - S of  San Tomas Rd,13405,37.282936,-121.976634
+2005-09-27,White Rd,S of,Mabury Rd,White Rd - S of  Mabury Rd,13299,37.383301,-121.841854
+2010-05-20,Hedding St,E of,The Alameda,Hedding St - E of  The Alameda,13298,37.341059,-121.922647
+2005-02-15,Tenth St,S of,Old Bayshore Hy,Tenth St - S of  Old Bayshore Hy,13296,37.366143,-121.900007
+2007-07-12,Piedmont Rd,N of,Penitencia Creek Rd,Piedmont Rd - N of  Penitencia Creek Rd,13260,37.391346,-121.842804
+2006-07-06,Almaden Rd,N of,Curtner Av,Almaden Rd - N of  Curtner Av,13240,37.29263,-121.879973
+2006-01-30,San Carlos St,W of,Third St,San Carlos St - W of  Third St,13240,37.332318,-121.88538
+2006-01-30,San Carlos St,E of,Third St,San Carlos St - E of  Third St,13120,37.332668,-121.884646
+2007-01-23,Race St,S of,Park Av,Race St - S of  Park Av,13084,37.32559,-121.911547
+2010-06-01,Blossom Hill Rd,W of,Union Av,Blossom Hill Rd - W of  Union Av,12975,37.236136,-121.931681
+2008-11-06,Morrill Av,S of,Via Montez,Morrill Av - S of  Via Montez,12940,37.410675,-121.871451
+2007-07-18,Piedmont Rd,N of,Sierra Rd,Piedmont Rd - N of  Sierra Rd,12930,37.400162,-121.84711
+2009-03-10,Almaden Bl,N of,Convention Center,Almaden Bl - N of  Convention Center,12920,37.328949,-121.890946
+2005-02-14,Naglee Av,E of,Park Av,Naglee Av - E of  Park Av,12904,37.33414,-121.923803
+2007-03-14,Hillsdale Av,E of,Narvaez Av,Hillsdale Av - E of  Narvaez Av,12880,37.279923,-121.864251
+2009-03-10,Almaden Bl,S of,Post St,Almaden Bl - S of  Post St,12870,37.332921,-121.894094
+2005-04-21,Lundy Av,N of,Commerce Dr,Lundy Av - N of  Commerce Dr,12799,37.395692,-121.890834
+2006-03-23,Payne Av,E of,Eden Av,Payne Av - E of  Eden Av,12751,37.301539,-121.953881
+2009-04-28,Santa Teresa Bl,S of,Bernal Rd,Santa Teresa Bl - S of  Bernal Rd,12740,37.226642,-121.776485
+2007-03-14,Hillsdale Av,W of,Narvaez Av,Hillsdale Av - W of  Narvaez Av,12680,37.27984,-121.864602
+2006-07-06,Race St,N of,Garland Av,Race St - N of  Garland Av,12670,37.329956,-121.911863
+2007-04-03,Newhall St,E of,Monroe St,Newhall St - E of  Monroe St,12650,37.337703,-121.942721
+2006-05-10,Aborn Rd,W of,Ruby Av,Aborn Rd - W of  Ruby Av,12597,37.316318,-121.775947
+2008-03-05,Thirteenth St,N of,Mission St,Thirteenth St - N of  Mission St,12571,37.357443,-121.889562
+2008-11-21,Curtner Av,W of,Heritage Dr,Curtner Av - W of  Heritage Dr,12570,37.279245,-121.913951
+2006-10-11,Forest Av,E of,Di Salvo Av,Forest Av - E of  Di Salvo Av,12570,37.327061,-121.936858
+2005-01-27,Jackson Av,W of,San Antonio St,Jackson Av - W of  San Antonio St,12560,37.355812,-121.840903
+2010-05-20,Jackson Av,S of,Mabury,Jackson Av - S of  Mabury,12556,37.372834,-121.857634
+2005-05-04,Zanker Rd,N of,River Oaks Pw,Zanker Rd - N of  River Oaks Pw,12461,37.405846,-121.934638
+2010-06-03,San Tomas Aquino Rd,S of,Hamilton Park Dr,San Tomas Aquino Rd - S of  Hamilton Park Dr,12445,37.29524,-121.976641
+2005-08-01,Mabury Rd,E of,Cedarville Ln,Mabury Rd - E of  Cedarville Ln,12430,37.37794,-121.85308
+2007-03-01,San Antonio St,E of,Scharff Av,San Antonio St - E of  Scharff Av,12405,37.354607,-121.842685
+2006-11-07,Senter Rd,E of,Seven Trees Bl,Senter Rd - E of  Seven Trees Bl,12381,37.278109,-121.831818
+2005-01-10,Willow St,W of,Delmas Av,Willow St - W of  Delmas Av,12378,37.311988,-121.894164
+2010-05-20,Mabury Rd,E of,King Rd,Mabury Rd - E of  King Rd,12371,37.367382,-121.868508
+2005-03-29,Gish Rd,S of,Nimitz Fr,Gish Rd - S of  Nimitz Fr,12349,37.367614,-121.900057
+2006-06-13,Payne Av,W of,Stockbridge Dr,Payne Av - W of  Stockbridge Dr,12340,37.30103,-121.970665
+2005-02-14,Park Av,N of,Naglee Av,Park Av - N of  Naglee Av,12279,37.334399,-121.92459
+2007-09-10,San Tomas Aquino Rd,S of,San Tomas Rd,San Tomas Aquino Rd - S of  San Tomas Rd,12250,37.293223,-121.976617
+2006-02-15,San Antonio St,E of,Sunset Av,San Antonio St - E of  Sunset Av,12240,37.352824,-121.846439
+2006-03-28,Bird Av,S of,Coe Av,Bird Av - S of  Coe Av,12226,37.315122,-121.897879
+2005-01-10,Willow St,E of,Delmas Av,Willow St - E of  Delmas Av,12214,37.312307,-121.893614
+2005-02-08,Keyes St,W of,Third St,Keyes St - W of  Third St,12213,37.320571,-121.876588
+2007-04-03,Newhall St,W of,Monroe St,Newhall St - W of  Monroe St,12200,37.337677,-121.944797
+2008-02-01,Taylor St,E of,Ninth St,Taylor St - E of  Ninth St,12180,37.35328,-121.891373
+2005-03-14,Meridian Av,N of,San Carlos St,Meridian Av - N of  San Carlos St,12142,37.323903,-121.913748
+2010-06-03,Lucretia Av,N of,Tully Rd,Lucretia Av - N of  Tully Rd,12127,37.313929,-121.841337
+2008-09-30,Jackson Av,S of,Ashglen Wy,Jackson Av - S of  Ashglen Wy,12110,37.369957,-121.854809
+2009-03-09,Monterey Rd,S of,Bernal Rd,Monterey Rd - S of  Bernal Rd,12110,37.238633,-121.774072
+2006-03-23,Payne Av,W of,Eden Av,Payne Av - W of  Eden Av,12066,37.301546,-121.955037
+2007-02-15,Naglee Av,E of,Dana Av,Naglee Av - E of  Dana Av,12040,37.331971,-121.926641
+2006-10-11,Forest Av,W of,Di Salvo Av,Forest Av - W of  Di Salvo Av,11983,37.327056,-121.937499
+2005-02-15,Tenth St,N of,Old Bayshore Hy,Tenth St - N of  Old Bayshore Hy,11915,37.367223,-121.900214
+2005-03-08,Kooser Rd,W of,Dartmouth Dr,Kooser Rd - W of  Dartmouth Dr,11871,37.242407,-121.898807
+2007-11-15,Blossom Av,S of,Gettysburg Dr,Blossom Av - S of  Gettysburg Dr,11860,37.247411,-121.839772
+2006-07-06,Race St,N of,San Carlos St,Race St - N of  San Carlos St,11850,37.323925,-121.911427
+2009-05-06,Branham Ln,E of,Monterey Rd,Branham Ln - E of  Monterey Rd,11840,37.268832,-121.820489
+2007-03-27,Fourth St,N of,Jackson St,Fourth St - N of  Jackson St,11839,37.349112,-121.895934
+2008-03-05,Thirteenth St,S of,Mission St,Thirteenth St - S of  Mission St,11762,37.356799,-121.889086
+2005-05-16,Blossom Av,N of,Briarcliff Dr,Blossom Av - N of  Briarcliff Dr,11740,37.245525,-121.839748
+2009-02-25,Monterey Rd,S of,Palmwell Wy,Monterey Rd - S of  Palmwell Wy,11730,37.245712,-121.785855
+2007-03-01,San Antonio St,W of,Scharff Av,San Antonio St - W of  Scharff Av,11717,37.35434,-121.843248
+2005-09-27,White Rd,N of,Mabury Rd,White Rd - N of  Mabury Rd,11624,37.384221,-121.842553
+2006-01-25,Third St,N of,San Fernando St,Third St - N of  San Fernando St,11580,37.335585,-121.887281
+2005-04-04,Williams Rd,E of,Boynton Av,Williams Rd - E of  Boynton Av,11556,37.308635,-121.965157
+2005-09-08,San Antonio St,E of,Mccreery Av,San Antonio St - E of  Mccreery Av,11546,37.351518,-121.849185
+2005-04-04,Williams Rd,W of,Boynton Av,Williams Rd - W of  Boynton Av,11529,37.308501,-121.966659
+2009-05-14,Taylor St,W of,Fifteenth St,Taylor St - W of  Fifteenth St,11510,37.355811,-121.886043
+2009-04-28,Santa Teresa Bl,N of,Avenida Espana,Santa Teresa Bl - N of  Avenida Espana,11390,37.224276,-121.768491
+2007-10-03,Bird Av,N of,Snyder Av,Bird Av - N of  Snyder Av,11380,37.312804,-121.897409
+2008-08-27,Park Av,N of,Sandringham Wy,Park Av - N of  Sandringham Wy,11380,37.332475,-121.922272
+2010-06-03,Zanker Rd,S of,Trimble Rd,Zanker Rd - S of  Trimble Rd,11376,37.387352,-121.923296
+2010-05-19,Narvaez Av,E of,Hillsdale Av,Narvaez Av - E of  Hillsdale Av,11326,37.280323,-121.864675
+2008-11-13,Jackson Av,N of,Lava Dr,Jackson Av - N of  Lava Dr,11300,37.375362,-121.860018
+2005-01-18,Piedmont Rd,N of,Pine Creek Dr,Piedmont Rd - N of  Pine Creek Dr,11290,37.409433,-121.852211
+2010-06-01,Coleman Rd,E of,Meridian Av,Coleman Rd - E of  Meridian Av,11282,37.23794,-121.886056
+2008-08-01,Moorpark Av,W of,Eden Av,Moorpark Av - W of  Eden Av,11250,37.316087,-121.955075
+2005-01-13,Piedmont Rd,N of,Salinas Ct,Piedmont Rd - N of  Salinas Ct,11200,37.407454,-121.850843
+2007-07-31,Bird Av,N of,Brooks Av,Bird Av - N of  Brooks Av,11190,37.314317,-121.898036
+2010-06-01,Leigh Av,S of,Camden Av,Leigh Av - S of  Camden Av,11162,37.261066,-121.922317
+2005-03-08,Kooser Rd,E of,Dartmouth Dr,Kooser Rd - E of  Dartmouth Dr,11092,37.242566,-121.898453
+2005-09-08,San Antonio St,W of,Mccreery Av,San Antonio St - W of  Mccreery Av,11091,37.35129,-121.849663
+2007-05-22,Hyde Av,W of,Tompkins Dr,Hyde Av - W of  Tompkins Dr,11050,37.307887,-122.009306
+2007-07-31,Bird Av,S of,Brooks Av,Bird Av - S of  Brooks Av,11010,37.313806,-121.898066
+2005-02-09,Ross Av,N of,Hillsdale Av,Ross Av - N of  Hillsdale Av,10993,37.264483,-121.917373
+2005-04-12,Sixth St,N of,Virginia St,Sixth St - N of  Virginia St,10986,37.326897,-121.876444
+2005-04-14,Miller Av,N of,Edgemoor Wy,Miller Av - N of  Edgemoor Wy,10970,37.305474,-122.015018
+2005-04-06,Pine Av,W of,Lupton Av,Pine Av - W of  Lupton Av,10970,37.294795,-121.901844
+2007-06-19,Almaden Av,N of,Oak St,Almaden Av - N of  Oak St,10960,37.320931,-121.883706
+2010-05-20,Hedding St,E of,Coleman Av,Hedding St - E of  Coleman Av,10908,37.346543,-121.914835
+2009-05-13,Sierra Rd,W of,Zion Ln,Sierra Rd - W of  Zion Ln,10900,37.395444,-121.856438
+2005-05-04,Zanker Rd,S of,River Oaks Pw,Zanker Rd - S of  River Oaks Pw,10886,37.403699,-121.933965
+2009-04-06,Reed St,E of,Second St,Reed St - E of  Second St,10850,37.327681,-121.882552
+2008-08-01,Moorpark Av,W of,Hazel Dell Wy,Moorpark Av - W of  Hazel Dell Wy,10820,37.315904,-121.98177
+2007-03-20,Trinidad Dr,N of,Crown Bl,Trinidad Dr - N of  Crown Bl,10807,37.217913,-121.863139
+2006-01-09,Market St,S of,Park Av,Market St - S of  Park Av,10778,37.331712,-121.889744
+2010-06-03,Minnesota Av,W of,Lincoln Av,Minnesota Av - W of  Lincoln Av,10769,37.303206,-121.898185
+2006-03-06,Reed St,E of,Third St,Reed St - E of  Third St,10737,37.328171,-121.881517
+2005-04-12,Virginia St,E of,Sixth St,Virginia St - E of  Sixth St,10643,37.326666,-121.876069
+2007-07-12,Piedmont Rd,S of,Farthing W,Piedmont Rd - S of  Farthing W,10580,37.412964,-121.854437
+2006-01-09,Market St,N of,Park Av,Market St - N of  Park Av,10513,37.332533,-121.890357
+2006-02-15,San Antonio St,W of,Sunset Av,San Antonio St - W of  Sunset Av,10508,37.352516,-121.847095
+2005-10-11,Leigh Av,N of,Gunston Wy,Leigh Av - N of  Gunston Wy,10480,37.25517,-121.921669
+2007-09-13,Los Gatos Almaden Rd,E of,Oxbow Ct,Los Gatos Almaden Rd - E of  Oxbow Ct,10470,37.243417,-121.933729
+2009-05-06,Seventh St,S of,Humboldt St,Seventh St - S of  Humboldt St,10390,37.320931,-121.870592
+2009-05-12,Taylor St,W of,Monferino Dr,Taylor St - W of  Monferino Dr,10350,37.358865,-121.879617
+2010-05-20,Taylor St,E of,The Alameda,Taylor St - E of  The Alameda,10330,37.337725,-121.918796
+2006-02-07,Sylvandale Av,W of,Masters Ct,Sylvandale Av - W of  Masters Ct,10300,37.287805,-121.825255
+2006-11-15,San Tomas Aquino Rd,S of,San Tomas Rd,San Tomas Aquino Rd - S of  San Tomas Rd,10250,37.297512,-121.976672
+2010-05-18,Charcot Av,W of,Bering Dr,Charcot Av - W of  Bering Dr,10217,37.379791,-121.920621
+2007-03-08,Narvaez Av,S of,Hillsdale Av,Narvaez Av - S of  Hillsdale Av,10180,37.279635,-121.864367
+2008-09-02,Moorpark Av,N of,Borina Dr,Moorpark Av - N of  Borina Dr,10170,37.312161,-121.990528
+2006-06-13,Payne Av,W of,Maria Wy,Payne Av - W of  Maria Wy,10170,37.301523,-121.958951
+2005-02-09,Ross Av,S of,Hillsdale Av,Ross Av - S of  Hillsdale Av,10054,37.263392,-121.916621
+2008-05-06,Snell Av,N of,Blossom Hill Rd,Snell Av - N of  Blossom Hill Rd,10030,37.251824,-121.830842
+2007-03-12,Hedding St,W of,Monroe St,Hedding St - W of  Monroe St,10030,37.330235,-121.9442
+2010-05-19,Narvaez Av,S of,Hillsdale Av,Narvaez Av - S of  Hillsdale Av,10007,37.279703,-121.864398
+2008-04-09,Story Rd,W of,Clayton Rd,Story Rd - W of  Clayton Rd,9991,37.360425,-121.812858
+2005-05-11,Gish Rd,W of,Industrial Av,Gish Rd - W of  Industrial Av,9973,37.368698,-121.898545
+2007-06-18,Technology Dr,N of,Metro Dr,Technology Dr - N of  Metro Dr,9940,37.368027,-121.919078
+2010-05-19,Ocala Av,E of,King Rd,Ocala Av - E of  King Rd,9934,37.331281,-121.834206
+2005-11-09,Lucretia Av,S of,Fair Av,Lucretia Av - S of  Fair Av,9880,37.323298,-121.850724
+2010-05-19,Alma Av,E of,Monterey Rd,Alma Av - E of  Monterey Rd,9878,37.316688,-121.873352
+2008-07-30,Moorpark Av,W of,Rebecca Wy,Moorpark Av - W of  Rebecca Wy,9870,37.31593,-121.970428
+2006-07-11,Hillsdale Av,W of,Vistapark Dr,Hillsdale Av - W of  Vistapark Dr,9820,37.280214,-121.854845
+2007-08-09,Farnsworth Dr,W of,Silver Ridge Dr,Farnsworth Dr - W of  Silver Ridge Dr,9800,37.284735,-121.768496
+2009-03-05,Chynoweth Av,E of,Cherry Blossom Dr,Chynoweth Av - E of  Cherry Blossom Dr,9790,37.258884,-121.814483
+2006-06-12,Third St,N of,San Salvador St,Third St - N of  San Salvador St,9760,37.331225,-121.884034
+2007-03-13,Flickinger Av,S of,Sierra Rd,Flickinger Av - S of  Sierra Rd,9746,37.385198,-121.873001
+2007-04-30,Pine Av,W of,Lincoln Av,Pine Av - W of  Lincoln Av,9740,37.298281,-121.893783
+2009-05-11,Taylor St,W of,Nineteenth St,Taylor St - W of  Nineteenth St,9710,37.357566,-121.882346
+2007-04-02,Tenth St,N of,Washington St,Tenth St - N of  Washington St,9697,37.347618,-121.886193
+2009-03-11,Monterey Rd,S of,Richmond Av,Monterey Rd - S of  Richmond Av,9660,37.192463,-121.714526
+2007-01-23,Park Av,W of,Race St,Park Av - W of  Race St,9654,37.325988,-121.912064
+2006-10-06,Coleman Rd,E of,Winfield Bl,Coleman Rd - E of  Winfield Bl,9640,37.242866,-121.86843
+2007-04-04,Moorpark Av,S of,Borina Dr,Moorpark Av - S of  Borina Dr,9550,37.311464,-121.990582
+2008-02-12,Bird Av,N of,Minnesota Av,Bird Av - N of  Minnesota Av,9540,37.307438,-121.891451
+2005-03-29,Nimitz Fr,N of,Gish Rd,Nimitz Fr - N of  Gish Rd,9491,37.368116,-121.899975
+2005-04-28,Copperfield Dr,S of,Sandpebble Dr,Copperfield Dr - S of  Sandpebble Dr,9490,37.275454,-121.854669
+2005-03-15,Lucretia Av,S of,Story Rd,Lucretia Av - S of  Story Rd,9422,37.329544,-121.856851
+2005-02-15,Old Bayshore Hy,E of,Tenth St,Old Bayshore Hy - E of  Tenth St,9353,37.366622,-121.899577
+2005-05-26,Foxworthy Av,E of,Lexford Av,Foxworthy Av - E of  Lexford Av,9340,37.267752,-121.917382
+2009-03-05,Chynoweth Av,E of,Derek Dr,Chynoweth Av - E of  Derek Dr,9280,37.258809,-121.825543
+2007-01-23,Park Av,E of,Race St,Park Av - E of  Race St,9230,37.326045,-121.910956
+2009-03-11,Monterey Hy,N of,Tilton Av,Monterey Hy - N of  Tilton Av,9210,37.155778,-121.676876
+2005-01-19,Willow St,E of,Lelong St,Willow St - E of  Lelong St,9176,37.315134,-121.888418
+2005-03-29,Gish Rd,E of,Nimitz Fr,Gish Rd - E of  Nimitz Fr,9165,37.368272,-121.899174
+2006-06-06,Almaden Rd,E of,Almaden Ex,Almaden Rd - E of  Almaden Ex,9140,37.288891,-121.881095
+2006-04-10,Samaritan Dr,E of,Dickens Av,Samaritan Dr - E of  Dickens Av,9130,37.250634,-121.937121
+2005-08-09,Mcginness Av,S of,Story Rd,Mcginness Av - S of  Story Rd,9100,37.352309,-121.824131
+2006-10-12,Fourth St,S of,Santa Clara St,Fourth St - S of  Santa Clara St,9090,37.33742,-121.88722
+2007-08-24,Bird Av,N of,Cristina Av,Bird Av - N of  Cristina Av,9080,37.30898,-121.893644
+2006-01-30,Third St,S of,San Carlos St,Third St - S of  San Carlos St,9050,37.332163,-121.884732
+2007-08-21,Willow St,E of,Cherry Av,Willow St - E of  Cherry Av,8990,37.30613,-121.906218
+2007-07-17,First St,S of,Nortech Pw,First St - S of  Nortech Pw,8920,37.421817,-121.963679
+2007-03-20,Trinidad Dr,S of,Crown Bl,Trinidad Dr - S of  Crown Bl,8870,37.217519,-121.862599
+2005-10-05,Fourth St,S of,Mission St,Fourth St - S of  Mission St,8870,37.352457,-121.898426
+2006-02-06,Virginia St,W of,Seventh St,Virginia St - W of  Seventh St,8851,37.326927,-121.875507
+2005-11-03,Lucretia Av,N of,Thelma Wy,Lucretia Av - N of  Thelma Wy,8850,37.326135,-121.853463
+2005-07-08,Pine Av,W of,Cottle Av,Pine Av - W of  Cottle Av,8840,37.295891,-121.899317
+2006-10-19,Los Gatos Almaden Rd,W of,Taft Dr,Los Gatos Almaden Rd - W of  Taft Dr,8830,37.2434,-121.936829
+2005-10-05,Fourth St,N of,Mission St,Fourth St - N of  Mission St,8790,37.353123,-121.898922
+2005-05-18,Blossom Av,S of,Palm Springs Ci,Blossom Av - S of  Palm Springs Ci,8760,37.239508,-121.839673
+2005-05-26,Foxworthy Av,E of,Julio Av,Foxworthy Av - E of  Julio Av,8740,37.269112,-121.91186
+2006-01-31,Almaden Rd,S of,Curtner Av,Almaden Rd - S of  Curtner Av,8710,37.291896,-121.880373
+2005-05-12,Ross Av,S of,Donna Ln,Ross Av - S of  Donna Ln,8680,37.262156,-121.915769
+2005-01-26,Park Av,N of,Emory St,Park Av - N of  Emory St,8680,37.3356,-121.926034
+2005-06-15,Zanker Rd,S of,Bering Dr,Zanker Rd - S of  Bering Dr,8670,37.382574,-121.918339
+2006-05-03,Miller Av,N of,Rainbow Dr,Miller Av - N of  Rainbow Dr,8641,37.302329,-122.015032
+2008-05-28,Kiely Bl,E of,Kiely Bl,Kiely Bl - E of  Kiely Bl,8610,37.320153,-121.971856
+2006-03-02,Trinidad Dr,W of,Glenview Dr,Trinidad Dr - W of  Glenview Dr,8550,37.214779,-121.855349
+2007-12-14,Fourth St,N of,Younger St,Fourth St - N of  Younger St,8500,37.357031,-121.901833
+2006-05-24,San Antonio St,E of,Thirtythird St,San Antonio St - E of  Thirtythird St,8490,37.348172,-121.856232
+2007-07-12,Piedmont Rd,N of,Tronson Ct,Piedmont Rd - N of  Tronson Ct,8460,37.418289,-121.858299
+2007-03-13,Flickinger Av,N of,Sierra Rd,Flickinger Av - N of  Sierra Rd,8455,37.385713,-121.87355
+2005-05-11,Gish Rd,E of,Industrial Av,Gish Rd - E of  Industrial Av,8434,37.369041,-121.898031
+2009-02-18,Market St,S of,Paseo De San Antonio,Market St - S of  Paseo De San Antonio,8360,37.332057,-121.889051
+2006-06-08,Vine St,S of,Goodyear St,Vine St - S of  Goodyear St,8330,37.316842,-121.882083
+2010-05-20,Willow St,E of,Carolyn Av,Willow St - E of  Carolyn Av,8293,37.306885,-121.904545
+2005-04-05,Beswick Dr,S of,Blossom Hill Rd,Beswick Dr - S of  Blossom Hill Rd,8291,37.251104,-121.809033
+2006-01-10,Clayton Rd,S of,Kaylene Dr,Clayton Rd - S of  Kaylene Dr,8290,37.357321,-121.808
+2008-08-19,Lean Av,N of,Blossom Hill Rd,Lean Av - N of  Blossom Hill Rd,8270,37.251888,-121.817511
+2007-03-22,Hedding St,E of,Garden Dr,Hedding St - E of  Garden Dr,8250,37.333749,-121.932259
+2006-11-20,Doyle Rd,W of,Saratoga Av,Doyle Rd - W of  Saratoga Av,8240,37.302953,-121.980823
+2005-05-09,San Salvador St,W of,Seventh St,San Salvador St - W of  Seventh St,8235,37.332826,-121.880079
+2007-06-19,Almaden Av,N of,Union St,Almaden Av - N of  Union St,8200,37.323184,-121.885383
+2009-02-18,Third St,N of,Margaret St,Third St - N of  Margaret St,8190,37.326767,-121.880714
+2006-03-27,Toyon Av,N of,Mckee Rd,Toyon Av - N of  Mckee Rd,8190,37.381577,-121.826674
+2005-08-09,Third St,N of,Reed St,Third St - N of  Reed St,8190,37.328295,-121.881852
+2009-04-21,Lean Av,N of,Omira Dr,Lean Av - N of  Omira Dr,8180,37.250858,-121.817498
+2006-11-27,Trinidad Dr,E of,Misty Willow Ct,Trinidad Dr - E of  Misty Willow Ct,8180,37.214707,-121.856689
+2007-12-18,Fourth St,S of,Younger St,Fourth St - S of  Younger St,8170,37.356346,-121.901322
+2007-03-22,Skyway Dr,E of,Park Paxton Pl,Skyway Dr - E of  Park Paxton Pl,8160,37.27128,-121.830283
+2008-08-19,Ross Av,S of,Pasatiempo Dr,Ross Av - S of  Pasatiempo Dr,8130,37.255208,-121.910909
+2006-02-01,San Antonio St,E of,San Antonio Ct,San Antonio St - E of  San Antonio Ct,8130,37.347813,-121.856991
+2006-05-10,Ruby Av,N of,Aborn Rd,Ruby Av - N of  Aborn Rd,8121,37.31717,-121.775415
+2008-04-09,Clayton Rd,S of,Story Rd,Clayton Rd - S of  Story Rd,8107,37.360681,-121.811922
+2006-06-12,Beswick Dr,N of,Bangor Av,Beswick Dr - N of  Bangor Av,8100,37.248861,-121.808845
+2007-04-05,Moorpark Av,S of,Forest View Dr,Moorpark Av - S of  Forest View Dr,8090,37.312825,-121.990539
+2006-10-25,Nieman Bl,N of,Daniel Maloney Dr,Nieman Bl - N of  Daniel Maloney Dr,8072,37.30909,-121.799607
+2005-11-15,Daniel Maloney Dr,W of,Methilhaven Ln,Daniel Maloney Dr - W of  Methilhaven Ln,8050,37.307826,-121.801096
+2006-10-18,San Felipe Rd,S of,Bowery Ln,San Felipe Rd - S of  Bowery Ln,8040,37.302701,-121.774743
+2009-03-09,Monterey Rd,N of,Live Oak Av,Monterey Rd - N of  Live Oak Av,8020,37.168301,-121.689732
+2006-06-27,Doyle Rd,E of,Happy Valley Av,Doyle Rd - E of  Happy Valley Av,8010,37.304374,-121.992162
+2005-08-09,Vine St,S of,Willow St,Vine St - S of  Willow St,8010,37.318127,-121.883039
+2006-01-31,El Cajon Dr,E of,Seven Trees Bl,El Cajon Dr - E of  Seven Trees Bl,7980,37.283681,-121.832418
+2010-05-18,Flickinger Av,S of,Hostetter Rd,Flickinger Av - S of  Hostetter Rd,7960,37.390734,-121.878887
+2008-04-16,Branham Lane East,E of,Corte Verde Dr,Branham Lane East - E of  Corte Verde Dr,7950,37.26917,-121.815404
+2005-04-27,Zanker Rd,S of,Devcon Dr,Zanker Rd - S of  Devcon Dr,7950,37.375559,-121.911341
+2005-06-01,Williams Rd,W of,Eden Av,Williams Rd - W of  Eden Av,7940,37.308823,-121.955292
+2006-07-11,Tully Rd,E of,Reno Dr,Tully Rd - E of  Reno Dr,7930,37.337998,-121.789075
+2005-08-22,Tasman Dr,W of,Baypointe Pw,Tasman Dr - W of  Baypointe Pw,7920,37.410486,-121.942271
+2010-06-03,Junction Av,S of,Trimble Rd,Junction Av - S of  Trimble Rd,7920,37.390089,-121.919822
+2006-03-16,Foxworthy Av,E of,Kilo Av,Foxworthy Av - E of  Kilo Av,7860,37.26885,-121.912863
+2005-08-09,Vine St,S of,Humboldt St,Vine St - S of  Humboldt St,7850,37.315414,-121.881017
+2005-05-31,Commerce Dr,E of,Lundy Av,Commerce Dr - E of  Lundy Av,7800,37.394363,-121.889726
+2008-03-11,Third St,S of,Santa Clara St,Third St - S of  Santa Clara St,7770,37.33693,-121.888281
+2006-04-06,Tenth St,S of,Washington St,Tenth St - S of  Washington St,7710,37.346802,-121.885586
+2006-03-22,Foxworthy Av,W of,Kilo Av,Foxworthy Av - W of  Kilo Av,7700,37.268746,-121.913267
+2006-03-29,Ringwood Av,S of,Mckay Dr,Ringwood Av - S of  Mckay Dr,7660,37.388284,-121.89363
+2005-09-27,Mabury Rd,W of,White Rd,Mabury Rd - W of  White Rd,7651,37.383445,-121.842844
+2006-04-26,Berryessa Rd,W of,Sabal Dr,Berryessa Rd - W of  Sabal Dr,7650,37.393397,-121.849339
+2006-12-20,Foxworthy Av,E of,Custer Dr,Foxworthy Av - E of  Custer Dr,7650,37.268229,-121.915313
+2006-05-03,Miller Av,S of,Rainbow Dr,Miller Av - S of  Rainbow Dr,7641,37.300797,-122.015015
+2009-05-13,Sierra Rd,E of,Mauna Kea Ln,Sierra Rd - E of  Mauna Kea Ln,7630,37.397375,-121.852183
+2005-05-11,Ross Av,S of,Nelson Wy,Ross Av - S of  Nelson Wy,7620,37.259168,-121.913709
+2005-06-07,Johnson Av,S of,Donington Dr,Johnson Av - S of  Donington Dr,7618,37.300572,-122.006624
+2006-07-06,Minnesota Av,E of,Meridian Av,Minnesota Av - E of  Meridian Av,7570,37.301005,-121.91259
+2006-07-27,Toyon Av,S of,Richardson Dr,Toyon Av - S of  Richardson Dr,7570,37.385501,-121.829382
+2007-07-24,Piedmont Rd,S of,Rowley Dr,Piedmont Rd - S of  Rowley Dr,7560,37.419353,-121.859088
+2008-03-06,Thirteenth St,N of,Jackson St,Thirteenth St - N of  Jackson St,7490,37.353116,-121.886339
+2009-01-16,Lean Av,N of,Belden Dr,Lean Av - N of  Belden Dr,7470,37.249278,-121.81747
+2006-06-27,Doyle Rd,W of,Winding Wy,Doyle Rd - W of  Winding Wy,7470,37.303088,-121.983135
+2006-05-10,Aborn Rd,E of,Ruby Av,Aborn Rd - E of  Ruby Av,7428,37.316514,-121.774301
+2006-01-25,Third St,S of,St James St,Third St - S of  St James St,7400,37.33984,-121.890448
+2006-10-12,Santa Clara St,E of,Third St,Santa Clara St - E of  Third St,7390,37.337271,-121.888245
+2006-03-06,Reed St,W of,Third St,Reed St - W of  Third St,7367,37.32797,-121.881943
+2008-08-21,Foxworthy Av,W of,Manda Dr,Foxworthy Av - W of  Manda Dr,7360,37.26854,-121.91406
+2006-04-12,Samaritan Dr,W of,Winton Wy,Samaritan Dr - W of  Winton Wy,7360,37.250616,-121.941858
+2005-01-26,Stokes St,W of,Del Mar Av,Stokes St - W of  Del Mar Av,7342,37.301471,-121.931
+2006-06-13,Fleming Av,N of,Neves Wy,Fleming Av - N of  Neves Wy,7340,37.37405,-121.817226
+2008-08-18,Hedding St,W of,Seventeenth St,Hedding St - W of  Seventeenth St,7340,37.360951,-121.887444
+2008-04-18,Ruby Av,S of,Pepperidge Dr,Ruby Av - S of  Pepperidge Dr,7320,37.335878,-121.784121
+2006-01-10,Piedmont Rd,S of,Pinnacle Dr,Piedmont Rd - S of  Pinnacle Dr,7280,37.402758,-121.848403
+2005-01-31,Avenida Rotella,E of,Via Serena,Avenida Rotella - E of  Via Serena,7240,37.232209,-121.770867
+2007-07-18,Narvaez Av,S of,Naomi Ct,Narvaez Av - S of  Naomi Ct,7210,37.271966,-121.860827
+2006-10-25,Nieman Bl,S of,Daniel Maloney Dr,Nieman Bl - S of  Daniel Maloney Dr,7204,37.308707,-121.79934
+2008-08-21,Foxworthy Av,E of,Manda Dr,Foxworthy Av - E of  Manda Dr,7180,37.268637,-121.913704
+2007-05-24,Crown Bl,E of,Trinidad Dr,Crown Bl - E of  Trinidad Dr,7170,37.217919,-121.862468
+2007-03-26,Eleventh St,S of,Washington St,Eleventh St - S of  Washington St,7165,37.347287,-121.884523
+2006-03-29,Ringwood Av,S of,Fortune Dr,Ringwood Av - S of  Fortune Dr,7150,37.400391,-121.898204
+2007-04-30,Race St,N of,San Fernando St,Race St - N of  San Fernando St,7150,37.329024,-121.911798
+2005-05-25,Westmont Av,W of,Harriet Av,Westmont Av - W of  Harriet Av,7137,37.271101,-121.981723
+2006-10-19,Chynoweth Av,E of,Pearl Av,Chynoweth Av - E of  Pearl Av,7130,37.258401,-121.862434
+2007-12-05,Hassler Py,S of,Trestlewood Dr,Hassler Py - S of  Trestlewood Dr,7120,37.286954,-121.803264
+2006-07-13,Penitencia Creek Rd,E of,Summerview Dr,Penitencia Creek Rd - E of  Summerview Dr,7090,37.386158,-121.852667
+2008-08-18,Hedding St,E of,Seventeenth St,Hedding St - E of  Seventeenth St,7070,37.361191,-121.886933
+2006-02-14,Fleming Av,S of,Neves Wy,Fleming Av - S of  Neves Wy,7060,37.373919,-121.816886
+2005-04-12,Virginia St,W of,Sixth St,Virginia St - W of  Sixth St,7049,37.326315,-121.876805
+2008-01-23,Tully Rd,W of,Ruby Av,Tully Rd - W of  Ruby Av,7030,37.338593,-121.78605
+2006-02-01,Santa Teresa Bl,N of,Bailey Av,Santa Teresa Bl - N of  Bailey Av,7010,37.201872,-121.737231
+2005-11-01,Johnson Av,S of,Castano Dr,Johnson Av - S of  Castano Dr,6980,37.308216,-122.003795
+2006-05-10,Ruby Av,S of,Aborn Rd,Ruby Av - S of  Aborn Rd,6974,37.315532,-121.774933
+2007-05-22,Tompkins Dr,E of,Hyde Av,Tompkins Dr - E of  Hyde Av,6930,37.307545,-122.008836
+2007-12-06,Vine St,N of,Humboldt St,Vine St - N of  Humboldt St,6900,37.315705,-121.881234
+2005-06-07,Johnson Av,N of,Donington Dr,Johnson Av - N of  Donington Dr,6882,37.30157,-122.006247
+2005-05-09,Seventh St,S of,San Salvador St,Seventh St - S of  San Salvador St,6859,37.332491,-121.879199
+2009-05-06,Branham Lane East,E of,Eberly Dr,Branham Lane East - E of  Eberly Dr,6840,37.269173,-121.814567
+2006-03-21,Bucknall Rd,W of,Elmgrove Ln,Bucknall Rd - W of  Elmgrove Ln,6830,37.283309,-121.990785
+2009-03-12,Canoas Garden Av,N of,Masonic Dr,Canoas Garden Av - N of  Masonic Dr,6810,37.291241,-121.872851
+2005-04-14,Miller Av,N of,Janary Wy,Miller Av - N of  Janary Wy,6810,37.29693,-122.014984
+2005-04-14,Miller Av,S of,Wisteria Wy,Miller Av - S of  Wisteria Wy,6780,37.297521,-122.014989
+2007-03-27,Jackson St,W of,Fourth St,Jackson St - W of  Fourth St,6779,37.348294,-121.895771
+2005-01-18,Park Av,W of,Cleaves Av,Park Av - W of  Cleaves Av,6760,37.326201,-121.907651
+2009-05-04,Thornton Wy,S of,Empey Wy,Thornton Wy - S of  Empey Wy,6760,37.314286,-121.938713
+2006-08-02,Third St,S of,Reed St,Third St - S of  Reed St,6760,37.327936,-121.881583
+2006-01-25,Third St,N of,St James St,Third St - N of  St James St,6740,37.3404,-121.890867
+2007-04-04,San Antonio St,E of,Twentyeighth St,San Antonio St - E of  Twentyeighth St,6730,37.345611,-121.861623
+2006-10-19,Chynoweth Av,W of,New World Dr,Chynoweth Av - W of  New World Dr,6720,37.260287,-121.855013
+2007-07-18,Vistapark Dr,S of,Springpark Ci,Vistapark Dr - S of  Springpark Ci,6720,37.269856,-121.848594
+2007-12-05,Vine St,N of,Virginia St,Vine St - N of  Virginia St,6720,37.321848,-121.88581
+2010-06-03,River Oaks Pkwy,E of,Zanker Rd,River Oaks Pkwy - E of  Zanker Rd,6714,37.404708,-121.932975
+2006-04-06,Eleventh St,N of,Washington St,Eleventh St - N of  Washington St,6710,37.348105,-121.885132
+2005-05-25,Westmont Av,E of,Harriet Av,Westmont Av - E of  Harriet Av,6708,37.271198,-121.981004
+2010-06-03,Ringwood Av,N of,Mc Kay Dr,Ringwood Av - N of  Mc Kay Dr,6706,37.388976,-121.894299
+2009-03-12,Monterey Rd,S of,Blanchard Rd,Monterey Rd - S of  Blanchard Rd,6700,37.218114,-121.741232
+2009-03-18,Margaret Wy,E of,Sixth St,Margaret Wy - E of  Sixth St,6680,37.328174,-121.877082
+2006-06-22,Delta Rd,W of,Oldfield Wy,Delta Rd - W of  Oldfield Wy,6650,37.306681,-121.773087
+2010-06-01,Foxworthy Av,E of,Meridian Av,Foxworthy Av - E of  Meridian Av,6646,37.270839,-121.905311
+2009-02-12,Third St,S of,Martha St,Third St - S of  Martha St,6640,37.323462,-121.87825
+2005-01-26,Stokes St,E of,Del Mar Av,Stokes St - E of  Del Mar Av,6630,37.301469,-121.929863
+2010-05-18,Tenth St,N of,Taylor St,Tenth St - N of  Taylor St,6620,37.354877,-121.891605
+2008-03-06,Thirteenth St,S of,Jackson St,Thirteenth St - S of  Jackson St,6603,37.352587,-121.885945
+2005-05-09,Leeward Dr,S of,Leeward Ct,Leeward Dr - S of  Leeward Ct,6590,37.346458,-121.828763
+2007-08-08,Taylor St,E of,Eighth St,Taylor St - E of  Eighth St,6570,37.352797,-121.892391
+2006-04-06,Tenth St,N of,Empire St,Tenth St - N of  Empire St,6560,37.349887,-121.887884
+2008-11-13,Julian St,E of,Seventh St,Julian St - E of  Seventh St,6560,37.343703,-121.887181
+2005-02-08,Third St,S of,Keyes St,Third St - S of  Keyes St,6532,37.32056,-121.87609
+2007-06-19,Almaden Av,N of,Goodyear St,Almaden Av - N of  Goodyear St,6510,37.317816,-121.881385
+2006-10-12,Third St,N of,Santa Clara St,Third St - N of  Santa Clara St,6510,37.337427,-121.888651
+2005-01-18,Park Av,W of,Sonoma St,Park Av - W of  Sonoma St,6500,37.328156,-121.897758
+2008-05-01,Coe Av,W of,Clintonia Av,Coe Av - W of  Clintonia Av,6460,37.314298,-121.899715
+2006-01-31,Almaden Rd,S of,Willow Glen Wy,Almaden Rd - S of  Willow Glen Wy,6440,37.303387,-121.878937
+2009-03-09,Monterey Rd,N of,Metcalf Rd,Monterey Rd - N of  Metcalf Rd,6430,37.226705,-121.75157
+2010-05-18,Charcot Av,W of,Hartog Dr,Charcot Av - W of  Hartog Dr,6413,37.384861,-121.912002
+2008-05-01,Coe Av,E of,Clintonia Av,Coe Av - E of  Clintonia Av,6410,37.314611,-121.899218
+2007-10-19,Basking Ridge Av,N of,Schoolhouse Rd,Basking Ridge Av - N of  Schoolhouse Rd,6380,37.250802,-121.771416
+2005-03-15,Lucretia Av,N of,Story Rd,Lucretia Av - N of  Story Rd,6360,37.330338,-121.857633
+2009-05-12,Bayliss Dr,W of,Santa Teresa Bl,Bayliss Dr - W of  Santa Teresa Bl,6350,37.219578,-121.762279
+2006-09-12,Coe Av,E of,Broadway Av,Coe Av - E of  Broadway Av,6350,37.31411,-121.900116
+2009-04-29,Hellyer Av,W of,Sacramento Av,Hellyer Av - W of  Sacramento Av,6350,37.284396,-121.819744
+2008-12-09,Hostetter Rd,E of,Sun Ln,Hostetter Rd - E of  Sun Ln,6350,37.406687,-121.856539
+2009-03-19,Margaret Wy,W of,Sixth St,Margaret Wy - W of  Sixth St,6350,37.328093,-121.877751
+2007-04-03,Leigh Av,S of,San Carlos St,Leigh Av - S of  San Carlos St,6321,37.322673,-121.923837
+2007-06-28,Guluzzo Dr,S of,Mt Pleasant Rd,Guluzzo Dr - S of  Mt Pleasant Rd,6320,37.348187,-121.794448
+2007-05-22,Third St,W of,Humboldt St,Third St - W of  Humboldt St,6310,37.320009,-121.875681
+2006-04-06,Eleventh St,N of,Empire St,Eleventh St - N of  Empire St,6300,37.350267,-121.886744
+2008-11-12,Julian St,E of,Sixth St,Julian St - E of  Sixth St,6280,37.343208,-121.888226
+2007-07-17,Hellyer Av,W of,River Park Dr,Hellyer Av - W of  River Park Dr,6240,37.284235,-121.815903
+2007-11-09,Palisade Dr,N of,River Falls Dr,Palisade Dr - N of  River Falls Dr,6210,37.280467,-121.814902
+2005-05-09,San Salvador St,E of,Seventh St,San Salvador St - E of  Seventh St,6206,37.33325,-121.87918
+2006-10-25,Daniel Maloney Dr,W of,Nieman Bl,Daniel Maloney Dr - W of  Nieman Bl,6204,37.30859,-121.799936
+2010-06-03,Sierra Rd,E of,Capitol Av,Sierra Rd - E of  Capitol Av,6204,37.392436,-121.863881
+2007-03-27,Fourth St,S of,Jackson St,Fourth St - S of  Jackson St,6164,37.347841,-121.894989
+2005-05-04,River Oaks Pkwy,E of,Zanker Rd,River Oaks Pkwy - E of  Zanker Rd,6160,37.404671,-121.933911
+2006-02-28,Camino Verde Dr,S of,Santa Teresa Bl,Camino Verde Dr - S of  Santa Teresa Bl,6133,37.236294,-121.801127
+2008-11-13,Julian St,E of,Fifth St,Julian St - E of  Fifth St,6130,37.342736,-121.889256
+2010-06-01,Monroe St,S of,Stevens Creek Bl,Monroe St - S of  Stevens Creek Bl,6122,37.323143,-121.943324
+2009-04-20,Cropley Av,E of,Sagewood Ln,Cropley Av - E of  Sagewood Ln,6100,37.414038,-121.860229
+2007-04-24,Blaney Av,N of,Bollinger Rd,Blaney Av - N of  Bollinger Rd,6084,37.310218,-122.023157
+2007-06-19,Almaden Av,N of,Floyd St,Almaden Av - N of  Floyd St,6040,37.314992,-121.879281
+2006-09-26,Cinnabar St,W of,Morrison Av,Cinnabar St - W of  Morrison Av,6000,37.334103,-121.909763
+2009-04-20,Lean Av,N of,Conestoga Wy,Lean Av - N of  Conestoga Wy,6000,37.238914,-121.81684
+2007-03-27,Jackson St,E of,Fourth St,Jackson St - E of  Fourth St,5992,37.348625,-121.895077
+2010-06-02,Yerba Buena Av,E of,San Felipe Rd,Yerba Buena Av - E of  San Felipe Rd,5930,37.299681,-121.770499
+2007-06-19,Gateway Pl,N of,Airport Py,Gateway Pl - N of  Airport Py,5920,37.370727,-121.922228
+2006-07-12,Penitencia Creek Rd,W of,Cayman Wy,Penitencia Creek Rd - W of  Cayman Wy,5920,37.389681,-121.84449
+2005-03-16,Coleman Rd,E of,Redmond Av,Coleman Rd - E of  Redmond Av,5920,37.230461,-121.896587
+2007-09-05,Gold St,N of,Moffatt St,Gold St - N of  Moffatt St,5910,37.424361,-121.976083
+2005-04-21,Huran Dr,S of,Santiago Av,Huran Dr - S of  Santiago Av,5890,37.325818,-121.825745
+2008-04-04,Auzerais Av,E of,Bird Av,Auzerais Av - E of  Bird Av,5850,37.323479,-121.898966
+2006-09-14,St James St,E of,Third St,St James St - E of  Third St,5850,37.340265,-121.890298
+2007-10-19,Basking Ridge Av,S of,Schoolhouse Rd,Basking Ridge Av - S of  Schoolhouse Rd,5800,37.249903,-121.770029
+2005-05-31,Twentyfourth St,S of,St James St,Twentyfourth St - S of  St James St,5800,37.34934,-121.870026
+2008-05-02,Penitencia Creek Rd,E of,Linda Vista St,Penitencia Creek Rd - E of  Linda Vista St,5790,37.391805,-121.836229
+2005-09-08,Williams Rd,W of,Pinewood Dr,Williams Rd - W of  Pinewood Dr,5790,37.308609,-121.982619
+2006-05-09,Wilbur Av,W of,Emilie Dr,Wilbur Av - W of  Emilie Dr,5780,37.358903,-121.829919
+2005-11-09,Fourth St,S of,Empire St,Fourth St - S of  Empire St,5780,37.346088,-121.893682
+2008-03-18,Adrian Wy,N of,Newton Av,Adrian Wy - N of  Newton Av,5770,37.343783,-121.832037
+2005-10-12,Foxworthy Av,E of,Gardendale Dr,Foxworthy Av - E of  Gardendale Dr,5770,37.277075,-121.883596
+2008-12-04,Cunningham Av,E of,Huran Dr,Cunningham Av - E of  Huran Dr,5760,37.329971,-121.829274
+2005-09-13,Fourth St,N of,Empire St,Fourth St - N of  Empire St,5760,37.346516,-121.894
+2008-08-18,Lean Av,N of,Colville Dr,Lean Av - N of  Colville Dr,5740,37.246486,-121.817433
+2005-11-09,Fourth St,S of,Julian St,Fourth St - S of  Julian St,5720,37.341813,-121.890495
+2010-06-02,William St,W of,Twenty Fourth St,William St - W of  Twenty Fourth St,5694,37.341087,-121.862706
+2006-07-10,Almaden Rd,N of,Willow Glen Wy,Almaden Rd - N of  Willow Glen Wy,5690,37.304006,-121.878678
+2008-09-16,Cisco Wy,S of,Tasman Dr,Cisco Wy - S of  Tasman Dr,5680,37.410762,-121.928181
+2006-07-26,Marten Av,E of,Hayworth Dr,Marten Av - E of  Hayworth Dr,5670,37.346629,-121.804466
+2006-08-03,San Felipe Rd,S of,Silver Oak St,San Felipe Rd - S of  Silver Oak St,5660,37.29218,-121.76606
+2005-10-05,Fourth St,N of,Washington St,Fourth St - N of  Washington St,5650,37.344427,-121.892444
+2006-09-25,Bucknall Rd,W of,Maroel Dr,Bucknall Rd - W of  Maroel Dr,5620,37.2834,-121.986251
+2005-01-31,Avenida Rotella,N of,Avenida Grande,Avenida Rotella - N of  Avenida Grande,5590,37.232404,-121.764753
+2006-08-24,Little Orchard St,S of,Stauffer Bl,Little Orchard St - S of  Stauffer Bl,5580,37.304293,-121.870786
+2008-06-26,Story Rd,W of,Watters Dr,Story Rd - W of  Watters Dr,5560,37.363778,-121.809971
+2009-04-29,Hellyer Av,E of,Sacramento Av,Hellyer Av - E of  Sacramento Av,5550,37.284378,-121.819302
+2008-04-04,Auzerais Av,W of,Willis Av,Auzerais Av - W of  Willis Av,5540,37.324862,-121.896584
+2007-01-04,Reed St,W of,First St,Reed St - W of  First St,5540,37.326432,-121.8845
+2010-05-19,Little Orchard St,S of,Barnard Av,Little Orchard St - S of  Barnard Av,5531,37.306494,-121.872951
+2008-11-19,Avenida Rotella,W of,Via Anacapa,Avenida Rotella - W of  Via Anacapa,5520,37.233513,-121.769652
+2005-10-26,Piedmont Rd,N of,Isadora Dr,Piedmont Rd - N of  Isadora Dr,5490,37.411472,-121.853495
+2008-07-30,Monroe St,N of,Tisch Wy,Monroe St - N of  Tisch Wy,5490,37.318163,-121.94331
+2008-02-28,Jackson Av,S of,Pacheco Dr,Jackson Av - S of  Pacheco Dr,5470,37.371466,-121.8563
+2006-10-12,St James St,E of,Fifth St St,St James St - E of  Fifth St St,5450,37.341222,-121.888292
+2006-01-12,Thirteenth St,S of,Vestal St,Thirteenth St - S of  Vestal St,5450,37.358011,-121.889987
+2007-12-14,Hassler Py,W of,Silver Ranch Ln,Hassler Py - W of  Silver Ranch Ln,5440,37.290317,-121.80007
+2009-02-02,Sylvandale Av,E of,Honolulu Dr,Sylvandale Av - E of  Honolulu Dr,5410,37.287925,-121.823105
+2006-10-11,Di Salvo Av,S of,Forest Av,Di Salvo Av - S of  Forest Av,5404,37.326747,-121.937103
+2008-08-29,Naglee Av,W of,Park Av,Naglee Av - W of  Park Av,5400,37.333752,-121.924331
+2005-10-04,Eden Av,S of,Impala Dr,Eden Av - S of  Impala Dr,5390,37.295737,-121.954442
+2006-03-27,Toyon Av,N of,Joanne Av,Toyon Av - N of  Joanne Av,5390,37.389458,-121.832094
+2008-11-24,Nieman Bl,N of,Chisin St,Nieman Bl - N of  Chisin St,5360,37.297259,-121.786198
+2005-12-01,Pine Av,E of,Glen Una Av,Pine Av - E of  Glen Una Av,5360,37.299594,-121.890746
+2008-11-19,Avenida Rotella,E of,Via Anacapa,Avenida Rotella - E of  Via Anacapa,5350,37.233997,-121.769181
+2006-02-28,Camino Verde Dr,N of,Santa Teresa Bl,Camino Verde Dr - N of  Santa Teresa Bl,5338,37.237702,-121.801147
+2006-10-05,Hicks Av,S of,Callecita St,Hicks Av - S of  Callecita St,5330,37.289604,-121.902293
+2005-10-26,Piedmont Rd,S of,Isadora Dr,Piedmont Rd - S of  Isadora Dr,5330,37.41116,-121.853298
+2007-07-17,First St,N of,Grand Bl,First St - N of  Grand Bl,5320,37.425314,-121.972925
+2008-05-28,First St,N of,Nortech Pw,First St - N of  Nortech Pw,5320,37.422525,-121.964579
+2008-04-08,Park Av,W of,Gifford Av,Park Av - W of  Gifford Av,5320,37.327706,-121.898492
+2005-10-06,Stevens Ln,W of,Whittington Dr,Stevens Ln - W of  Whittington Dr,5320,37.320459,-121.792953
+2006-05-03,Rainbow Dr,W of,Miller Av,Rainbow Dr - W of  Miller Av,5310,37.301199,-122.016492
+2008-07-31,Tisch Wy,W of,Monroe St,Tisch Wy - W of  Monroe St,5300,37.317422,-121.943933
+2006-01-12,Thirteenth St,N of,Vestal St,Thirteenth St - N of  Vestal St,5300,37.358409,-121.890298
+2007-03-21,Sierra Rd,W of,Cabrillo Av,Sierra Rd - W of  Cabrillo Av,5290,37.392833,-121.863043
+2006-03-20,Coe Av,E of,Lincoln Av,Coe Av - E of  Lincoln Av,5281,37.312942,-121.903525
+2006-04-26,Berryessa Rd,E of,Sabal Dr,Berryessa Rd - E of  Sabal Dr,5280,37.393834,-121.849213
+2007-04-04,San Antonio St,W of,Twentyeighth St,San Antonio St - W of  Twentyeighth St,5270,37.345428,-121.862011
+2006-10-11,Di Salvo Av,N of,Forest Av,Di Salvo Av - N of  Forest Av,5265,37.326535,-121.937102
+2008-01-23,Ruby Av,N of,Tully Rd,Ruby Av - N of  Tully Rd,5242,37.339185,-121.785743
+2005-05-09,Seventh St,N of,San Salvador St,Seventh St - N of  San Salvador St,5234,37.333548,-121.880008
+2009-02-10,Muirfield Dr,S of,Alum Rock Av,Muirfield Dr - S of  Alum Rock Av,5230,37.360851,-121.83782
+2006-05-02,Sylvandale Av,E of,Masters Ct,Sylvandale Av - E of  Masters Ct,5230,37.287812,-121.82484
+2007-04-24,Blaney Av,S of,Bollinger Rd,Blaney Av - S of  Bollinger Rd,5219,37.309563,-122.023327
+2005-11-03,Sierra Rd,E of,Araujo St,Sierra Rd - E of  Araujo St,5180,37.377869,-121.880508
+2008-02-28,Jackson Av,N of,Pacheco Dr,Jackson Av - N of  Pacheco Dr,5150,37.371975,-121.856803
+2005-10-12,Foxworthy Av,W of,Gardendale Dr,Foxworthy Av - W of  Gardendale Dr,5140,37.27699,-121.883923
+2006-06-13,Willow St,W of,Lelong St,Willow St - W of  Lelong St,5130,37.314999,-121.88871
+2006-08-14,Penitencia Creek Rd,E of,Gridley St,Penitencia Creek Rd - E of  Gridley St,5110,37.390907,-121.840585
+2006-08-02,Third St,N of,Keyes St,Third St - N of  Keyes St,5110,37.321424,-121.876733
+2006-03-28,Coe Av,W of,Bird Av,Coe Av - W of  Bird Av,5109,37.315148,-121.898363
+2005-05-04,River Oaks Pkwy,W of,Zanker Rd,River Oaks Pkwy - W of  Zanker Rd,5105,37.404054,-121.935661
+2006-01-30,Clayton Rd,S of,Hickerson Dr,Clayton Rd - S of  Hickerson Dr,5090,37.358369,-121.809396
+2006-01-25,First St,N of,Tony P. Santos St,First St - N of  Tony P. Santos St,5090,37.423635,-121.966581
+2009-02-12,Clarice Dr,E of,Kenesta Wy,Clarice Dr - E of  Kenesta Wy,5050,37.325606,-121.822789
+2006-11-27,Trinidad Dr,E of,Glenview Dr,Trinidad Dr - E of  Glenview Dr,5040,37.215017,-121.854747
+2006-09-20,St James St,E of,Seventh St,St James St - E of  Seventh St,5030,37.342243,-121.886139
+2007-04-03,Leigh Av,N of,San Carlos St,Leigh Av - N of  San Carlos St,5023,37.324124,-121.923817
+2007-03-26,Monroe St,N of,Forest Av,Monroe St - N of  Forest Av,5020,37.327464,-121.943353
+2005-03-15,San Pedro St,N of,George St,San Pedro St - N of  George St,5020,37.347101,-121.901815
+2006-05-03,Sylvandale Av,W of,Maui Dr,Sylvandale Av - W of  Maui Dr,5020,37.287943,-121.822618
+2007-03-21,Sierra Rd,E of,Cabrillo Av,Sierra Rd - E of  Cabrillo Av,5014,37.393084,-121.862257
+2008-04-30,Canoas Garden Av,S of,Curtner Av,Canoas Garden Av - S of  Curtner Av,5010,37.292786,-121.874367
+2006-05-03,Rainbow Dr,E of,Miller Av,Rainbow Dr - E of  Miller Av,5010,37.301218,-122.014216
+2006-06-07,Flint Av,N of,Guluzzo Dr,Flint Av - N of  Guluzzo Dr,5000,37.344547,-121.797768
+2010-06-01,Thornwood Dr,E of,Santa Teresa Bl,Thornwood Dr - E of  Santa Teresa Bl,4848,37.252645,-121.857719
+2010-06-01,Dry Creek Rd,E of,Leigh Av,Dry Creek Rd - E of  Leigh Av,2025,37.283381,-121.921573
+2013-08-15,Piedmont Rd,N of,Whitman Wy,Piedmont Rd - N of  Whitman Wy,15448,37.395549,-121.844897
+2014-02-13,Tenth St,N of,,Tenth St - N of,18622,37.334932,-121.876745
+2014-02-06,Eleventh St,N of,San Salvador St,Eleventh St - N of  San Salvador St,17723,37.335406,-121.875674
+2013-08-21,Aborn Rd,E of,Nieman Bl,Aborn Rd - E of  Nieman Bl,42968,37.312469,-121.801586
+2014-02-13,Almaden Bl,N of,Woz Wy,Almaden Bl - N of  Woz Wy,13866,37.327465,-121.889844
+2014-02-13,Blossom Hill Rd,W of,Chesbro Av,Blossom Hill Rd - W of  Chesbro Av,25048,37.250601,-121.84328
+2014-02-12,Saratoga Av,S of,Payne Av,Saratoga Av - S of  Payne Av,30980,37.300551,-121.981983
+2014-02-13,Monterey Rd,N of,Curtner Av,Monterey Rd - N of  Curtner Av,34274,37.304091,-121.861653
+2014-02-13,Story Rd,E of,Capitol Ex,Story Rd - E of  Capitol Ex,41707,37.351677,-121.825778
+2014-02-11,Hedding St,W of,San Pedro St,Hedding St - W of  San Pedro St,13237,37.351727,-121.906783
+2014-02-11,Hedding St,W of,Ninth St,Hedding St - W of  Ninth St,12378,37.357275,-121.895176
+2013-08-15,Senter Rd,N of,Wool Creek Dr,Senter Rd - N of  Wool Creek Dr,22343,37.31311,-121.853175
+2013-08-14,Tenth St,N of,Julian St,Tenth St - N of  Julian St,8380,37.345862,-121.884887
+2013-08-13,Eleventh St,N of,Julian St,Eleventh St - N of  Julian St,6585,37.346318,-121.883801
+2013-08-07,San Carlos St,E of,Raymond Av,San Carlos St - E of  Raymond Av,21670,37.323403,-121.928173
+2013-08-07,Park Av,N of,Yosemite Av,Park Av - N of  Yosemite Av,10556,37.326913,-121.915567
+2014-02-13,Oakland Rd,S of,Commercial St,Oakland Rd - S of  Commercial St,39381,37.364397,-121.891671
+2014-02-14,Monterey Rd,N of,Pullman Wy,Monterey Rd - N of  Pullman Wy,38751,37.291303,-121.849049
+2014-02-13,Monterey Rd,n/o *,Branham Ln,Monterey Rd - n/o * Branham Ln,30901,37.268205,-121.822983
+2013-08-20,Meridian Av,N of,Hillsdale Av,Meridian Av - N of  Hillsdale Av,20723,37.268495,-121.904888
+2013-08-15,Hillsdale Av,E of,Meridian Av,Hillsdale Av - E of  Meridian Av,24331,37.268124,-121.904
+2013-08-14,Bascom Av,N of,Olive Av,Bascom Av - N of  Olive Av,28438,37.325725,-121.93197
+2013-08-14,Bascom Av,N of,Olive Av,Bascom Av - N of  Olive Av,28438,37.325725,-121.93197
+2013-08-13,Bascom Av,N of,Surrey Pl,Bascom Av - N of  Surrey Pl,20584,37.278174,-121.931996
+2013-08-20,Bascom Av,N of,Samaritin Dr,Bascom Av - N of  Samaritin Dr,31943,37.253622,-121.952028
+2013-08-06,Blossom Hill Rd,E of,Winfield Bl,Blossom Hill Rd - E of  Winfield Bl,28432,37.250405,-121.865175
+2014-02-13,Blossom Hill Rd,W of,Snell Av,Blossom Hill Rd - W of  Snell Av,46276,37.251271,-121.832131
+2013-08-07,Branham Ln,E of,Cherry Av,Branham Ln - E of  Cherry Av,14066,37.260941,-121.884382
+2013-08-07,Branham Ln,E of,Vistapark Dr,Branham Ln - E of  Vistapark Dr,16370,37.265909,-121.845312
+2013-08-15,Camden Av,N of,Kooser Rd,Camden Av - N of  Kooser Rd,24705,37.24062,-121.904181
+2013-08-07,Coleman Av,N of,Asbury St,Coleman Av - N of  Asbury St,30922,37.343701,-121.91239
+2014-02-13,Keyes St,W of,Eleventh St,Keyes St - W of  Eleventh St,23084,37.324563,-121.868069
+2013-08-15,King Rd,N of,Barberry Ln,King Rd - N of  Barberry Ln,20870,37.313667,-121.817597
+2013-08-15,Mckee Rd,E of,King Rd,Mckee Rd - E of  King Rd,26773,37.358624,-121.859936
+2013-08-08,Meridian Av,S of,Douglas St,Meridian Av - S of  Douglas St,20165,37.321244,-121.913736
+2013-08-21,King Rd,S of,Havana Dr,King Rd - S of  Havana Dr,20458,37.330302,-121.83375
+2013-08-08,Santa Clara St,E of,First St,Santa Clara St - E of  First St,18919,37.336326,-121.890238
+2013-08-15,Santa Clara St,E of,Twentieth St,Santa Clara St - E of  Twentieth St,17190,37.34534,-121.87126
+2014-02-13,Santa Teresa Bl,N of,San Ignacio Av,Santa Teresa Bl - N of  San Ignacio Av,16066,37.233485,-121.787925
+2013-08-14,Third St,N of,Sna Carlos St,Third St - N of  Sna Carlos St,8758,37.332917,-121.885299
+2013-08-08,Stevens Creek Bl,E of,Baywood Av,Stevens Creek Bl - E of  Baywood Av,51883,37.323364,-121.945314
+2014-02-13,Story Rd,E of,Leeward Dr,Story Rd - E of  Leeward Dr,26474,37.348756,-121.830034
+2013-08-14,Tully Rd,E of,McLaughlin Av,Tully Rd - E of  McLaughlin Av,58274,37.315811,-121.835566
+2013-08-14,Union Av,S of,Woodard Rd,Union Av - S of  Woodard Rd,21138,37.260711,-121.931369
+2013-08-07,Winchester Bl,N of,Fruitdale Av,Winchester Bl - N of  Fruitdale Av,28029,37.310565,-121.950063
+2015-04-16,First St,S of,San Salvador St,First St - S of  San Salvador St,3360,37.333932,-121.8889
+2015-04-02,Second St,S of,Keyes St,Second St - S of  Keyes St,5054,37.320559,-121.877513
+2015-04-02,Second St,N of,William St,Second St - N of  William St,5464,37.329392,-121.884091
+2015-04-02,Third St,N of,Reed St,Third St - N of  Reed St,9194,37.328398,-121.881928
+2015-04-02,Third St,N of,Martha St,Third St - N of  Martha St,7782,37.323826,-121.878524
+2015-04-02,Humboldt St,W of,Third St,Humboldt St - W of  Third St,7539,37.31956,-121.875649
+2015-04-09,Almaden Rd,N of,Malone Rd,Almaden Rd - N of  Malone Rd,9375,37.299263,-121.880504
+2015-03-19,Old Almaden Rd,N of,Capitol Ex,Old Almaden Rd - N of  Capitol Ex,3122,37.27624,-121.877571
+2015-04-09,Bird Av,S of,Atlanta Av,Bird Av - S of  Atlanta Av,15918,37.316029,-121.897833
+2015-04-09,Bird Av,S of,Iris Gardens Ct,Bird Av - S of  Iris Gardens Ct,12455,37.312137,-121.896795
+2015-04-09,Bird Av,N of,Cristina Av,Bird Av - N of  Cristina Av,11852,37.30943,-121.894049
+2015-04-23,Bird Av,S of,Jansen Av,Bird Av - S of  Jansen Av,12098,37.304952,-121.888691
+2015-01-22,Blaney Av,N of,Windsor Wy,Blaney Av - N of  Windsor Wy,3229,37.297946,-122.023706
+2015-03-17,Chery Av,N of,Avalon Dr,Chery Av - N of  Avalon Dr,6989,37.277428,-121.891979
+2015-03-19,Cherry Av,N of,Darlene Av,Cherry Av - N of  Darlene Av,6943,37.283521,-121.896123
+2015-03-19,Cherry Av,N of,Stark Wy,Cherry Av - N of  Stark Wy,6111,37.267395,-121.887361
+2015-02-05,Cottle Av,S of,Pine Av,Cottle Av - S of  Pine Av,3831,37.294706,-121.898365
+2015-04-09,Cottle Av,S of,Pine Av,Cottle Av - S of  Pine Av,3845,37.294792,-121.89841
+2015-04-19,Curtner Av,W of,Radio Av,Curtner Av - W of  Radio Av,17252,37.289103,-121.889756
+2015-04-09,Curtner Av,W of,Celestine Av,Curtner Av - W of  Celestine Av,16345,37.290669,-121.885351
+2015-02-05,Curtner Av,W of,Celestine Av,Curtner Av - W of  Celestine Av,16846,37.290718,-121.885213
+2015-04-09,Curtner AV,E of,Radio Av,Curtner AV - E of  Radio Av,17313,37.289354,-121.889054
+2015-02-05,Curtner Av,E of,Radio Av,Curtner Av - E of  Radio Av,17794,37.289377,-121.88899
+2015-03-18,St Elizabeth Dr,S of,Frutdale Av,St Elizabeth Dr - S of  Frutdale Av,3069,37.31052,-121.915685
+2015-03-17,Park Av,N of,Hester Av,Park Av - N of  Hester Av,13755,37.330046,-121.919341
+2015-05-13,Fifteenth St,N of,Julian St,Fifteenth St - N of  Julian St,826,37.347704,-121.87978
+2015-05-13,Julian St,W of,Fifteenth St,Julian St - W of  Fifteenth St,9382,37.347208,-121.879797
+2015-05-13,Fifteenth St,S of,Julian St,Fifteenth St - S of  Julian St,588,37.347056,-121.879295
+2015-05-13,Julian St,E of,Fifteenth St,Julian St - E of  Fifteenth St,9587,37.347489,-121.879206
+2015-04-09,Lincoln Av,N of,Savaker Av,Lincoln Av - N of  Savaker Av,9361,37.318084,-121.908186
+2015-04-09,Lincoln Av,N of,Lester Av,Lincoln Av - N of  Lester Av,12989,37.311413,-121.903198
+2015-04-23,Lincoln Av,N of,Lester Av,Lincoln Av - N of  Lester Av,10490,37.311381,-121.903175
+2015-04-09,Lincoln Av,S of,Nevada Av,Lincoln Av - S of  Nevada Av,13998,37.30137,-121.894817
+2015-04-09,Lincoln Av,S of,Meredith Av,Lincoln Av - S of  Meredith Av,13725,37.306659,-121.899791
+2015-04-09,Lincon Av,N of,Manor Dr,Lincon Av - N of  Manor Dr,12408,37.287941,-121.886383
+2015-04-09,Meridian Av,S of,Westwood Dr,Meridian Av - S of  Westwood Dr,32737,37.305784,-121.913616
+2015-02-04,Meridian Av,S of,Westwood Dr,Meridian Av - S of  Westwood Dr,33163,37.305706,-121.913615
+2015-04-02,Moorpark Av,S of,Borina Dr,Moorpark Av - S of  Borina Dr,9706,37.311581,-121.990551
+2015-04-02,Moorpark Av,W of,Gullo Av,Moorpark Av - W of  Gullo Av,16879,37.309505,-121.993772
+2015-04-02,Moorpark Av,W of,Junipero Serra Ln,Moorpark Av - W of  Junipero Serra Ln,11305,37.315895,-121.984388
+2015-03-12,Park Av,N of,Emory St,Park Av - N of  Emory St,8669,37.335337,-121.925718
+2015-03-19,Park Av,W of,Sonoma St,Park Av - W of  Sonoma St,7087,37.328198,-121.897671
+2015-03-19,Park Av,W of,Cleaves Av,Park Av - W of  Cleaves Av,8275,37.326209,-121.907476
+2015-03-19,Race St,N of,Parkmoor Av,Race St - N of  Parkmoor Av,6828,37.316919,-121.910963
+2015-03-19,River Oaks Pkwy,W of,Zanker Rd,River Oaks Pkwy - W of  Zanker Rd,5733,37.404262,-121.935267
+2015-03-19,River Oaks Py,W of,Research Pl,River Oaks Py - W of  Research Pl,7373,37.403653,-121.926589
+2015-01-14,Florence Av,W of,Nancy Ln,Florence Av - W of  Nancy Ln,4422,37.360972,-121.830144
+2015-01-15,Florence Av,E of,Lyndale Av,Florence Av - E of  Lyndale Av,5785,37.362067,-121.827741
+2015-01-15,Bowling Green Dr,E of,Alvin Av,Bowling Green Dr - E of  Alvin Av,2754,37.316694,-121.823906
+2015-01-15,Alvin Av,N of,Bowling Green Dr,Alvin Av - N of  Bowling Green Dr,5514,37.316943,-121.824199
+2015-01-15,Alvin Av,S of,Bowling Green Dr,Alvin Av - S of  Bowling Green Dr,4473,37.316271,-121.824111
+2015-03-17,Tully Rd,E of,Alvin Av,Tully Rd - E of  Alvin Av,56344,37.320453,-121.828685
+2015-01-21,Jarvis Av,N of,Blackstone Av,Jarvis Av - N of  Blackstone Av,2956,37.272149,-121.895515
+2015-01-22,Blaney Av,N of,Michele Wy,Blaney Av - N of  Michele Wy,4654,37.305582,-122.023981
+2015-01-21,Scott St,W of,Mayellen Av,Scott St - W of  Mayellen Av,6960,37.319674,-121.9207
+2015-03-17,Tully Rd,E of,Lucretia Av,Tully Rd - E of  Lucretia Av,48908,37.313068,-121.839772
+2015-03-11,Yerba Buena Av,N of,Evergreen Wy,Yerba Buena Av - N of  Evergreen Wy,2601,37.305943,-121.782983
+2015-03-12,Race St,N of,Eugene Av,Race St - N of  Eugene Av,14446,37.327288,-121.911671
+2015-03-15,Delta Rd,W of,Oldfiled Wy,Delta Rd - W of  Oldfiled Wy,7224,37.306716,-121.772842
+2015-03-12,Bucknall Rd,E of,Maroel Dr,Bucknall Rd - E of  Maroel Dr,6124,37.283415,-121.985535
+2015-03-13,Delta Rd,W of,Pinot Blanc Wy,Delta Rd - W of  Pinot Blanc Wy,3457,37.30741,-121.767456
+2015-03-18,Bangor Av,E of,Bieber Dr,Bangor Av - E of  Bieber Dr,1950,37.247786,-121.813204
+2015-03-13,Innovation Dr,W of,Research Pl,Innovation Dr - W of  Research Pl,1734,37.402094,-121.927194
+2015-04-23,Willow St,W of,,Willow St - W of,8395,37.306956,-121.904389
+2015-02-05,Iris Ct,S of,Minnesota Av,Iris Ct - S of  Minnesota Av,,37.302354,-121.898356
+2011-05-11,Capitol Av,S of,Penitencia Creek Rd,Capitol Av - S of  Penitencia Creek Rd,21679,37.382873,-121.856456
+2014-10-30,Capitol Av,N of,Bristol Dr,Capitol Av - N of  Bristol Dr,2600,37.347341,-121.824323
+2014-10-30,Blossom Hill Rd,E of,Union Av,Blossom Hill Rd - E of  Union Av,17883,37.236159,-121.930851
+2014-10-30,Blossom Hill Rd,E of,Begonia Dr,Blossom Hill Rd - E of  Begonia Dr,19492,37.236315,-121.910621
+2014-10-30,Monterey Rd,S of,Barnard Av,Monterey Rd - S of  Barnard Av,32354,37.310645,-121.868185
+2011-03-11,Curtner Av,E of,Lincoln Av,Curtner Av - E of  Lincoln Av,18297,37.290004,-121.887225
+2011-04-26,Curtner Av,E of,Westpark Dr,Curtner Av - E of  Westpark Dr,13614,37.27738,-121.918186
+2011-03-07,Curtner Av,E of,Parkwood Wy,Curtner Av - E of  Parkwood Wy,16220,37.285041,-121.901158
+2011-04-26,Curtner Av,W of,New Jersey Av,Curtner Av - W of  New Jersey Av,12781,37.274093,-121.927477
+2012-06-28,Tully Rd,E of,Monterey Rd,Tully Rd - E of  Monterey Rd,26361,37.303865,-121.860741
+2011-04-28,Thirteenth St,N of,Julian St,Thirteenth St - N of  Julian St,6627,37.34674,-121.881586
+2011-04-28,Thirteenth St,N of,Taylor St,Thirteenth St - N of  Taylor St,14053,37.355379,-121.888026
+2012-06-28,Tully Rd,E of,Lucretia Av,Tully Rd - E of  Lucretia Av,42118,37.313147,-121.839649
+2012-08-22,Tully Rd,E of,King Rd,Tully Rd - E of  King Rd,42443,37.32295,-121.825033
+2012-04-18,Meridian Av,N of,Willow St,Meridian Av - N of  Willow St,36031,37.305527,-121.913614
+2013-11-06,Winchester Bl,S of,Neal Av,Winchester Bl - S of  Neal Av,26368,37.311188,-121.950059
+2013-12-04,Winchester Bl,N of,Loma Verde Dr,Winchester Bl - N of  Loma Verde Dr,27574,37.299156,-121.949927
+2014-03-04,Third St,N of,San Fernando St,Third St - N of  San Fernando St,10029,37.335793,-121.887435
+2014-03-04,Third St,N of,William St,Third St - N of  William St,8661,37.329737,-121.882926
+2011-02-23,Seventh St,N of,Taylor St,Seventh St - N of  Taylor St,2591,37.352704,-121.894259
+2011-02-23,Seventh St,N of,Empire St,Seventh St - N of  Empire St,2532,37.348209,-121.890909
+2014-02-13,Branham Ln,E of,Snell Av,Branham Ln - E of  Snell Av,16091,37.26599,-121.830395
+2011-02-10,Branham Ln,W of,Kingspark Dr,Branham Ln - W of  Kingspark Dr,12170,37.265994,-121.84155
+2011-02-10,Branham Ln,W of,Desin Dr,Branham Ln - W of  Desin Dr,20843,37.26155,-121.882065
+2014-01-15,Leigh Av,N of,Anne Wy,Leigh Av - N of  Anne Wy,6499,37.239509,-121.922714
+2014-01-15,Leigh Av,S of,Anne Wy,Leigh Av - S of  Anne Wy,5646,37.238881,-121.922639
+2011-02-22,King Rd,N of,Wilshire Bl,King Rd - N of  Wilshire Bl,14457,37.355512,-121.85829
+2011-02-22,King Rd,S of,William St,King Rd - S of  William St,20807,37.348164,-121.851145
+2010-11-16,King Rd,N of,Pala Ranch Cl,King Rd - N of  Pala Ranch Cl,19697,37.368501,-121.870501
+2010-11-16,McLaughlin Av,N of,Muriel Ct,McLaughlin Av - N of  Muriel Ct,11255,37.296919,-121.81682
+2015-02-05,Minnesota Av,E of,Settle Av,Minnesota Av - E of  Settle Av,11801,37.305003,-121.895016
+2015-02-04,Minnesota Av,W of,Iris Ct,Minnesota Av - W of  Iris Ct,9727,37.302763,-121.899117
+2015-04-09,Minnesota Av,W of,Iris Ct,Minnesota Av - W of  Iris Ct,9655,37.302725,-121.899197
+2015-02-23,Minnesota Av,W of,Iris Ct,Minnesota Av - W of  Iris Ct,8695,37.302701,-121.899247
+2015-04-09,Minnesota Av,E of,Blewett Av,Minnesota Av - E of  Blewett Av,10623,37.304496,-121.89585
+2011-05-03,Commercial St,E of,Oakland Rd,Commercial St - E of  Oakland Rd,23000,37.364951,-121.891183
+2011-02-09,Oakland Rd,S of,Bern Ct,Oakland Rd - S of  Bern Ct,19319,37.375459,-121.895005
+2011-02-09,Oakland Rd,N of,Rock Av,Oakland Rd - N of  Rock Av,18177,37.394069,-121.901664
+2014-09-24,Taylor St,E of,Walnut St,Taylor St - E of  Walnut St,28759,37.34352,-121.909232
+2014-09-25,Taylor St,W of,Laurel St,Taylor St - W of  Laurel St,16544,37.339617,-121.914766
+2014-10-30,The Alameda,N of,Taylor St,The Alameda - N of  Taylor St,27066,37.337758,-121.919479
+2014-02-11,Trimble Rd,W of,First St,Trimble Rd - W of  First St,29407,37.387883,-121.924691
+2014-03-05,Fourth St,N of,Jackson St,Fourth St - N of  Jackson St,7278,37.348903,-121.895779
+2014-03-04,Fourth St,S of,Santa Clara St,Fourth St - S of  Santa Clara St,10794,37.337274,-121.887112
+2011-05-25,San Carlos St,E of,Menker Av,San Carlos St - E of  Menker Av,27346,37.323441,-121.921573
+2014-09-24,Bird Av,N of,San Carlos St,Bird Av - N of  San Carlos St,16977,37.324915,-121.900625
+2014-09-25,San Carlos St,W of,Gifford Av,San Carlos St - W of  Gifford Av,11485,37.326455,-121.897326
+2014-09-24,San Carlos St,E of,Almaden Bl,San Carlos St - E of  Almaden Bl,11733,37.329635,-121.890929
+2011-05-25,San Carlos St,W of,Lincoln Av,San Carlos St - W of  Lincoln Av,18635,37.323595,-121.908997
+2014-02-12,Tasman Dr,W of,Baypointe Pw,Tasman Dr - W of  Baypointe Pw,15329,37.410655,-121.941922
+2014-02-12,Tasman Dr,E of,Vista Montana,Tasman Dr - E of  Vista Montana,13651,37.411125,-121.955725
+2014-10-30,Montgomery St,S of,San Fernando St,Montgomery St - S of  San Fernando St,6760,37.328928,-121.901021
+2014-09-25,Autumn St,S of,San Fernando St,Autumn St - S of  San Fernando St,5336,37.328956,-121.899988
+2014-02-13,Norwood Av,E of,White Rd,Norwood Av - E of  White Rd,4851,37.328731,-121.798015
+2014-11-06,The Alameda,W of,Stockton Av,The Alameda - W of  Stockton Av,17598,37.331849,-121.904025
+2014-03-05,Tenth St,N of,Washington St,Tenth St - N of  Washington St,8432,37.347378,-121.886015
+2011-02-09,Tenth St,S of,Commercial St,Tenth St - S of  Commercial St,13768,37.361799,-121.896766
+2011-02-10,Tenth St,S of,Reed St,Tenth St - S of  Reed St,19575,37.3314,-121.874112
+2014-03-20,Story Rd,E of,Remillard Ct,Story Rd - E of  Remillard Ct,27380,37.32821,-121.860358
+2014-03-05,Story Rd,W of,Via Ferrari,Story Rd - W of  Via Ferrari,41439,37.334003,-121.851742
+2011-03-01,Stevens Creek Bl,W of,Clover Av,Stevens Creek Bl - W of  Clover Av,47374,37.323356,-121.944728
+2011-03-01,Stevens Creek Bl,W of,Henry Av,Stevens Creek Bl - W of  Henry Av,29289,37.323292,-121.955737
+2011-03-08,Stevens Creek Bl,W of,Boynton Av,Stevens Creek Bl - W of  Boynton Av,29778,37.323228,-121.965783
+2015-04-16,St John St,W of,First St,St John St - W of  First St,4659,37.33751,-121.891992
+2015-04-16,St John St,W of,Fifth St,St John St - W of  Fifth St,2568,37.339525,-121.887752
+2011-03-09,Snell Av,N of,Cauyga Dr,Snell Av - N of  Cauyga Dr,4421,37.231671,-121.830527
+2011-03-10,Snell Av,N of,Juneberry Ct,Snell Av - N of  Juneberry Ct,17765,37.272095,-121.836807
+2011-03-10,Snel Av,S of,Obert Dr,Snel Av - S of  Obert Dr,30449,37.261469,-121.830912
+2014-03-20,Seventh St,N of,William St,Seventh St - N of  William St,6551,37.331797,-121.878682
+2011-03-01,Seventh St,N of,Bestor St,Seventh St - N of  Bestor St,23196,37.325891,-121.870013
+2015-04-16,Second St,S of,San Fernando St,Second St - S of  San Fernando St,5593,37.334556,-121.887942
+2014-03-05,Second St,S of,Santa Clara St,Second St - S of  Santa Clara St,5589,37.336408,-121.889316
+2014-03-05,First St,N of,Santa Clara St,First St - N of  Santa Clara St,3549,37.336442,-121.890768
+2014-10-30,Montgomery St,S of,Santa Clara St,Montgomery St - S of  Santa Clara St,4481,37.331538,-121.901214
+2011-02-24,Prospect Rd,E of,Clarkspur Ln,Prospect Rd - E of  Clarkspur Ln,14725,37.293767,-122.02025
+2011-02-24,Prospect Rd,E of,Johnson Rd,Prospect Rd - E of  Johnson Rd,17653,37.293289,-122.006881
+2011-04-21,Moorpark Av,E of,,Moorpark Av - E of,11860,37.316076,-121.958578
+2011-04-21,Moorpark Av,E of,,Moorpark Av - E of,10264,37.315887,-121.9865
+2014-04-30,Baywood Av,S of,Moorpark Av,Baywood Av - S of  Moorpark Av,1825,37.315567,-121.945705
+2011-04-30,Moorpark Av,E of,Baywood Av,Moorpark Av - E of  Baywood Av,28193,37.316056,-121.945312
+2014-03-05,First St,N of,San Salvador St,First St - N of  San Salvador St,4202,37.330295,-121.886192
+2011-05-03,Component Dr,E of,First St,Component Dr - E of  First St,2334,37.383121,-121.924842
+2014-03-04,Matrix Bl,W of,First St,Matrix Bl - W of  First St,8294,37.371157,-121.916977
+2014-09-25,Market St,S of,Balbach St,Market St - S of  Balbach St,16026,37.328788,-121.885873
+2013-01-17,Julian St,W of,Ninth St,Julian St - W of  Ninth St,8365,37.344427,-121.885656
+2013-01-17,Julian St,E of,Ninth St,Julian St - E of  Ninth St,8645,37.344742,-121.884992
+2013-01-17,Ninth St,N of,Julian St,Ninth St - N of  Julian St,1064,37.344904,-121.885597
+2013-01-17,Ninth St,S of,Julian St,Ninth St - S of  Julian St,965,37.344305,-121.88515
+2014-03-05,Hillsdale Av,W of,Ross Av,Hillsdale Av - W of  Ross Av,20175,37.262893,-121.91837
+2014-09-24,Hedding St,E of,Fifteenth St,Hedding St - E of  Fifteenth St,14160,37.360295,-121.888819
+2009-07-09,San Antonio St,E of,Thirtyfourth St,San Antonio St - E of  Thirtyfourth St,7314,37.348961,-121.854572
+2011-01-19,Eleventh St,S of,San Carlos St,Eleventh St - S of  San Carlos St,14787,37.336292,-121.876332
+2011-08-03,Curtner Av,W of,Almaden Rd,Curtner Av - W of  Almaden Rd,26806,37.292237,-121.880738
+2015-04-08,Iris Ct,S of,Minnesota Av,Iris Ct - S of  Minnesota Av,736,37.302435,-121.898416
+2009-06-29,Bascom Av,S of,Dry Creek Rd,Bascom Av - S of  Dry Creek Rd,25269,37.279604,-121.931714
+2009-06-09,Bascom Av,S of,Curtner Av,Bascom Av - S of  Curtner Av,14929,37.272058,-121.936
+2014-01-16,Camden Av,W of,Graystone Ln,Camden Av - W of  Graystone Ln,8908,37.221913,-121.852164
+2014-01-16,Camden Av,E of,Graystone Ln,Camden Av - E of  Graystone Ln,6167,37.221811,-121.851764
+2014-09-11,Camden Av,S of,Canna Ln,Camden Av - S of  Canna Ln,23700,37.231085,-121.903803
+2014-03-05,Camden Av,N of,Orchard View Dr,Camden Av - N of  Orchard View Dr,23636,37.234752,-121.903468
+2011-02-08,Bernal Rd,W of,Via Del Oro,Bernal Rd - W of  Via Del Oro,19398,37.229601,-121.774391
+2009-10-08,Snell Av,S of,Blossom Hill Rd,Snell Av - S of  Blossom Hill Rd,23689,37.250673,-121.830826
+2011-07-01,Montgomery St,N of,Park Av,Montgomery St - N of  Park Av,7000,37.326688,-121.900778
+2011-07-01,Autumn St,S of,The Alameda,Autumn St - S of  The Alameda,7000,37.331721,-121.900214
+2011-07-01,Autumn St,N of,Park Av,Autumn St - N of  Park Av,4950,37.32669,-121.900689
+2011-07-01,Montgomery St,S of,The Alameda,Montgomery St - S of  The Alameda,4950,37.331753,-121.901231
+2011-07-01,Blossom Hill Rd,E of,Hwy-101,Blossom Hill Rd - E of  Hwy-101,56000,37.257227,-121.797167
+2011-07-01,Blossom Hill Rd,E of,Monterey Rd,Blossom Hill Rd - E of  Monterey Rd,30000,37.256571,-121.801303
+2011-07-01,Monterey Rd,S of,Capitol Ex,Monterey Rd - S of  Capitol Ex,31500,37.279071,-121.836311
+2011-07-01,Monterey Rd,S of,Old Tully Rd,Monterey Rd - S of  Old Tully Rd,31500,37.300438,-121.858024
+2011-07-01,Monterey Rd,S of,Alma Av,Monterey Rd - S of  Alma Av,22900,37.316338,-121.873867
+2011-07-01,First St,S of,Int-280,First St - S of  Int-280,20800,37.326083,-121.883054
+2011-07-01,San Carlos St,W of,Market St,San Carlos St - W of  Market St,14900,37.330807,-121.888516
+2011-07-01,San Carlos St,W of,Hwy-87,San Carlos St - W of  Hwy-87,14400,37.327741,-121.895047
